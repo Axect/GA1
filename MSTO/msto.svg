@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="264.55mm" height="211.64mm" viewBox="0 0 264.55 211.64"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-4c5b88b2-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-4c5b88b2-2">
+    <text x="133.75" y="200.03" text-anchor="middle" dy="0.6em">BV</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-4c5b88b2-3">
+    <text x="20.63" y="193.36" text-anchor="middle" dy="0.6em">0.30</text>
+    <text x="77.19" y="193.36" text-anchor="middle" dy="0.6em">0.35</text>
+    <text x="133.75" y="193.36" text-anchor="middle" dy="0.6em">0.40</text>
+    <text x="190.31" y="193.36" text-anchor="middle" dy="0.6em">0.45</text>
+    <text x="246.87" y="193.36" text-anchor="middle" dy="0.6em">0.50</text>
+  </g>
+  <g class="guide colorkey" id="img-4c5b88b2-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-4c5b88b2-5">
+      <text x="252.68" y="84.17" dy="0.35em" id="img-4c5b88b2-6" class="color_8gyr">8gyr</text>
+      <text x="252.68" y="87.8" dy="0.35em" id="img-4c5b88b2-7" class="color_9gyr">9gyr</text>
+      <text x="252.68" y="91.42" dy="0.35em" id="img-4c5b88b2-8" class="color_10gyr">10gyr</text>
+      <text x="252.68" y="95.05" dy="0.35em" id="img-4c5b88b2-9" class="color_11gyr">11gyr</text>
+      <text x="252.68" y="98.68" dy="0.35em" id="img-4c5b88b2-10" class="color_12gyr">12gyr</text>
+      <text x="252.68" y="102.3" dy="0.35em" id="img-4c5b88b2-11" class="color_13gyr">13gyr</text>
+      <text x="252.68" y="105.93" dy="0.35em" id="img-4c5b88b2-12" class="color_14gyr">14gyr</text>
+      <text x="252.68" y="109.56" dy="0.35em" id="img-4c5b88b2-13" class="color_15gyr">15gyr</text>
+      <text x="252.68" y="113.18" dy="0.35em" id="img-4c5b88b2-14" class="color_16gyr">16gyr</text>
+      <text x="252.68" y="116.81" dy="0.35em" id="img-4c5b88b2-15" class="color_17gyr">17gyr</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-4c5b88b2-16">
+      <rect x="249.87" y="83.26" width="1.81" height="1.81" id="img-4c5b88b2-17" fill="#00BFFF" class="color_8gyr"/>
+      <rect x="249.87" y="86.89" width="1.81" height="1.81" id="img-4c5b88b2-18" fill="#D4CA3A" class="color_9gyr"/>
+      <rect x="249.87" y="90.52" width="1.81" height="1.81" id="img-4c5b88b2-19" fill="#FF6DAE" class="color_10gyr"/>
+      <rect x="249.87" y="94.14" width="1.81" height="1.81" id="img-4c5b88b2-20" fill="#00B78D" class="color_11gyr"/>
+      <rect x="249.87" y="97.77" width="1.81" height="1.81" id="img-4c5b88b2-21" fill="#BEA9FF" class="color_12gyr"/>
+      <rect x="249.87" y="101.4" width="1.81" height="1.81" id="img-4c5b88b2-22" fill="#FF6765" class="color_13gyr"/>
+      <rect x="249.87" y="105.02" width="1.81" height="1.81" id="img-4c5b88b2-23" fill="#C6C6C6" class="color_14gyr"/>
+      <rect x="249.87" y="108.65" width="1.81" height="1.81" id="img-4c5b88b2-24" fill="#63DF75" class="color_15gyr"/>
+      <rect x="249.87" y="112.28" width="1.81" height="1.81" id="img-4c5b88b2-25" fill="#00E6D3" class="color_16gyr"/>
+      <rect x="249.87" y="115.9" width="1.81" height="1.81" id="img-4c5b88b2-26" fill="#E870DD" class="color_17gyr"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-4c5b88b2-27">
+      <text x="249.87" y="80.35" id="img-4c5b88b2-28">index</text>
+    </g>
+  </g>
+<g clip-path="url(#img-4c5b88b2-29)">
+  <g id="img-4c5b88b2-30">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-4c5b88b2-31">
+      <rect x="18.63" y="5" width="230.24" height="187.36" id="img-4c5b88b2-32"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-4c5b88b2-33">
+      <path fill="none" d="M18.63,7 L 248.87 7" id="img-4c5b88b2-34"/>
+      <path fill="none" d="M18.63,98.68 L 248.87 98.68" id="img-4c5b88b2-35"/>
+      <path fill="none" d="M18.63,190.36 L 248.87 190.36" id="img-4c5b88b2-36"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-4c5b88b2-37">
+      <path fill="none" d="M20.63,5 L 20.63 192.36" id="img-4c5b88b2-38"/>
+      <path fill="none" d="M77.19,5 L 77.19 192.36" id="img-4c5b88b2-39"/>
+      <path fill="none" d="M133.75,5 L 133.75 192.36" id="img-4c5b88b2-40"/>
+      <path fill="none" d="M190.31,5 L 190.31 192.36" id="img-4c5b88b2-41"/>
+      <path fill="none" d="M246.87,5 L 246.87 192.36" id="img-4c5b88b2-42"/>
+    </g>
+    <g class="plotpanel" id="img-4c5b88b2-43">
+      <g class="geometry" id="img-4c5b88b2-44">
+        <g stroke-width="0.3" id="img-4c5b88b2-45">
+          <g stroke="#FFFFFF" fill="#E870DD" id="img-4c5b88b2-46">
+            <use xlink:href="#img-4c5b88b2-47" x="211.8" y="164.14" id="img-4c5b88b2-48" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#00E6D3" id="img-4c5b88b2-49">
+            <use xlink:href="#img-4c5b88b2-50" x="203.88" y="165.05" id="img-4c5b88b2-51" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#63DF75" id="img-4c5b88b2-52">
+            <use xlink:href="#img-4c5b88b2-53" x="194.84" y="139.38" id="img-4c5b88b2-54" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#C6C6C6" id="img-4c5b88b2-55">
+            <use xlink:href="#img-4c5b88b2-56" x="185.79" y="137.55" id="img-4c5b88b2-57" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF6765" id="img-4c5b88b2-58">
+            <use xlink:href="#img-4c5b88b2-59" x="174.47" y="111.15" id="img-4c5b88b2-60" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#BEA9FF" id="img-4c5b88b2-61">
+            <use xlink:href="#img-4c5b88b2-62" x="157.51" y="94.83" id="img-4c5b88b2-63" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#00B78D" id="img-4c5b88b2-64">
+            <use xlink:href="#img-4c5b88b2-65" x="137.14" y="77.04" id="img-4c5b88b2-66" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF6DAE" id="img-4c5b88b2-67">
+            <use xlink:href="#img-4c5b88b2-68" x="114.52" y="57.24" id="img-4c5b88b2-69" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#D4CA3A" id="img-4c5b88b2-70">
+            <use xlink:href="#img-4c5b88b2-71" x="90.77" y="35.6" id="img-4c5b88b2-72" class="color_8gyr"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#00BFFF" id="img-4c5b88b2-73">
+            <use xlink:href="#img-4c5b88b2-74" x="65.88" y="12.68" id="img-4c5b88b2-75" class="color_8gyr"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-4c5b88b2-76">
+    <text x="17.63" y="7" text-anchor="end" dy="0.35em" id="img-4c5b88b2-77">3.5</text>
+    <text x="17.63" y="98.68" text-anchor="end" dy="0.35em" id="img-4c5b88b2-78">4.0</text>
+    <text x="17.63" y="190.36" text-anchor="end" dy="0.35em" id="img-4c5b88b2-79">4.5</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-4c5b88b2-80">
+    <text x="8.81" y="96.68" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 98.68)" id="img-4c5b88b2-81">Mv</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-4c5b88b2-29">
+  <path d="M18.63,5 L 248.87 5 248.87 192.36 18.63 192.36" />
+</clipPath>
+  <g id="img-4c5b88b2-47">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-82"/>
+  </g>
+  <g id="img-4c5b88b2-50">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-83"/>
+  </g>
+  <g id="img-4c5b88b2-53">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-84"/>
+  </g>
+  <g id="img-4c5b88b2-56">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-85"/>
+  </g>
+  <g id="img-4c5b88b2-59">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-86"/>
+  </g>
+  <g id="img-4c5b88b2-62">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-87"/>
+  </g>
+  <g id="img-4c5b88b2-65">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-88"/>
+  </g>
+  <g id="img-4c5b88b2-68">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-89"/>
+  </g>
+  <g id="img-4c5b88b2-71">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-90"/>
+  </g>
+  <g id="img-4c5b88b2-74">
+    <circle cx="0" cy="0" r="0.9" id="img-4c5b88b2-91"/>
+  </g>
+</defs>
+</svg>
