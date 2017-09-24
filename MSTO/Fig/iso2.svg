@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="264.55mm" height="264.55mm" viewBox="0 0 264.55 264.55"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-dbc2f34c-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-dbc2f34c-2">
+    <text x="133.75" y="252.94" text-anchor="middle" dy="0.6em">BV</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-dbc2f34c-3">
+    <text x="20.63" y="246.27" text-anchor="middle" dy="0.6em">0.32</text>
+    <text x="45.77" y="246.27" text-anchor="middle" dy="0.6em">0.34</text>
+    <text x="70.91" y="246.27" text-anchor="middle" dy="0.6em">0.36</text>
+    <text x="96.04" y="246.27" text-anchor="middle" dy="0.6em">0.38</text>
+    <text x="121.18" y="246.27" text-anchor="middle" dy="0.6em">0.40</text>
+    <text x="146.32" y="246.27" text-anchor="middle" dy="0.6em">0.42</text>
+    <text x="171.46" y="246.27" text-anchor="middle" dy="0.6em">0.44</text>
+    <text x="196.6" y="246.27" text-anchor="middle" dy="0.6em">0.46</text>
+    <text x="221.73" y="246.27" text-anchor="middle" dy="0.6em">0.48</text>
+    <text x="246.87" y="246.27" text-anchor="middle" dy="0.6em">0.50</text>
+  </g>
+  <g class="guide colorkey" id="img-dbc2f34c-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-dbc2f34c-5">
+      <text x="252.68" y="107" dy="0.35em" id="img-dbc2f34c-6" class="color_8gyr">8gyr</text>
+      <text x="252.68" y="110.63" dy="0.35em" id="img-dbc2f34c-7" class="color_9gyr">9gyr</text>
+      <text x="252.68" y="114.25" dy="0.35em" id="img-dbc2f34c-8" class="color_10gyr">10gyr</text>
+      <text x="252.68" y="117.88" dy="0.35em" id="img-dbc2f34c-9" class="color_11gyr">11gyr</text>
+      <text x="252.68" y="121.51" dy="0.35em" id="img-dbc2f34c-10" class="color_12gyr">12gyr</text>
+      <text x="252.68" y="125.13" dy="0.35em" id="img-dbc2f34c-11" class="color_13gyr">13gyr</text>
+      <text x="252.68" y="128.76" dy="0.35em" id="img-dbc2f34c-12" class="color_14gyr">14gyr</text>
+      <text x="252.68" y="132.39" dy="0.35em" id="img-dbc2f34c-13" class="color_15gyr">15gyr</text>
+      <text x="252.68" y="136.01" dy="0.35em" id="img-dbc2f34c-14" class="color_16gyr">16gyr</text>
+      <text x="252.68" y="139.64" dy="0.35em" id="img-dbc2f34c-15" class="color_17gyr">17gyr</text>
+      <text x="252.68" y="143.27" dy="0.35em" id="img-dbc2f34c-16" class="color_M3">M3</text>
+      <text x="252.68" y="146.89" dy="0.35em" id="img-dbc2f34c-17" class="color_M13">M13</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-dbc2f34c-18">
+      <rect x="249.87" y="106.09" width="1.81" height="1.81" id="img-dbc2f34c-19" fill="#00BFFF" class="color_8gyr"/>
+      <rect x="249.87" y="109.72" width="1.81" height="1.81" id="img-dbc2f34c-20" fill="#D4CA3A" class="color_9gyr"/>
+      <rect x="249.87" y="113.35" width="1.81" height="1.81" id="img-dbc2f34c-21" fill="#FF6DAE" class="color_10gyr"/>
+      <rect x="249.87" y="116.97" width="1.81" height="1.81" id="img-dbc2f34c-22" fill="#00B78D" class="color_11gyr"/>
+      <rect x="249.87" y="120.6" width="1.81" height="1.81" id="img-dbc2f34c-23" fill="#BEA9FF" class="color_12gyr"/>
+      <rect x="249.87" y="124.23" width="1.81" height="1.81" id="img-dbc2f34c-24" fill="#FF6765" class="color_13gyr"/>
+      <rect x="249.87" y="127.85" width="1.81" height="1.81" id="img-dbc2f34c-25" fill="#C6C6C6" class="color_14gyr"/>
+      <rect x="249.87" y="131.48" width="1.81" height="1.81" id="img-dbc2f34c-26" fill="#63DF75" class="color_15gyr"/>
+      <rect x="249.87" y="135.11" width="1.81" height="1.81" id="img-dbc2f34c-27" fill="#00E6D3" class="color_16gyr"/>
+      <rect x="249.87" y="138.73" width="1.81" height="1.81" id="img-dbc2f34c-28" fill="#E870DD" class="color_17gyr"/>
+      <rect x="249.87" y="142.36" width="1.81" height="1.81" id="img-dbc2f34c-29" fill="#93A649" class="color_M3"/>
+      <rect x="249.87" y="145.99" width="1.81" height="1.81" id="img-dbc2f34c-30" fill="#FF9A4B" class="color_M13"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-dbc2f34c-31">
+      <text x="249.87" y="103.18" id="img-dbc2f34c-32">index</text>
+    </g>
+  </g>
+<g clip-path="url(#img-dbc2f34c-33)">
+  <g id="img-dbc2f34c-34">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-dbc2f34c-35">
+      <rect x="18.63" y="5" width="230.24" height="240.27" id="img-dbc2f34c-36"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-dbc2f34c-37">
+      <path fill="none" d="M18.63,243.27 L 248.87 243.27" id="img-dbc2f34c-38"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-dbc2f34c-39">
+      <path fill="none" d="M20.63,5 L 20.63 245.27" id="img-dbc2f34c-40"/>
+      <path fill="none" d="M45.77,5 L 45.77 245.27" id="img-dbc2f34c-41"/>
+      <path fill="none" d="M70.91,5 L 70.91 245.27" id="img-dbc2f34c-42"/>
+      <path fill="none" d="M96.04,5 L 96.04 245.27" id="img-dbc2f34c-43"/>
+      <path fill="none" d="M121.18,5 L 121.18 245.27" id="img-dbc2f34c-44"/>
+      <path fill="none" d="M146.32,5 L 146.32 245.27" id="img-dbc2f34c-45"/>
+      <path fill="none" d="M171.46,5 L 171.46 245.27" id="img-dbc2f34c-46"/>
+      <path fill="none" d="M196.6,5 L 196.6 245.27" id="img-dbc2f34c-47"/>
+      <path fill="none" d="M221.73,5 L 221.73 245.27" id="img-dbc2f34c-48"/>
+      <path fill="none" d="M246.87,5 L 246.87 245.27" id="img-dbc2f34c-49"/>
+    </g>
+    <g class="plotpanel" id="img-dbc2f34c-50">
+      <g class="geometry" id="img-dbc2f34c-51">
+        <g stroke-width="0.3" id="img-dbc2f34c-52">
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-53">
+            <use xlink:href="#img-dbc2f34c-54" x="586.23" y="-106.6" id="img-dbc2f34c-55" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-56">
+            <use xlink:href="#img-dbc2f34c-57" x="644.04" y="-141.68" id="img-dbc2f34c-58" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-59">
+            <use xlink:href="#img-dbc2f34c-60" x="713.17" y="-178.2" id="img-dbc2f34c-61" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-62">
+            <use xlink:href="#img-dbc2f34c-63" x="797.38" y="-213.99" id="img-dbc2f34c-64" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-65">
+            <use xlink:href="#img-dbc2f34c-66" x="769.73" y="360.92" id="img-dbc2f34c-67" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-68">
+            <use xlink:href="#img-dbc2f34c-69" x="711.92" y="347.32" id="img-dbc2f34c-70" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-71">
+            <use xlink:href="#img-dbc2f34c-72" x="684.26" y="333" id="img-dbc2f34c-73" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-74">
+            <use xlink:href="#img-dbc2f34c-75" x="650.33" y="320.11" id="img-dbc2f34c-76" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-77">
+            <use xlink:href="#img-dbc2f34c-78" x="590" y="305.07" id="img-dbc2f34c-79" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-80">
+            <use xlink:href="#img-dbc2f34c-81" x="528.41" y="290.75" id="img-dbc2f34c-82" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-83">
+            <use xlink:href="#img-dbc2f34c-84" x="478.14" y="276.44" id="img-dbc2f34c-85" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-86">
+            <use xlink:href="#img-dbc2f34c-87" x="426.6" y="262.12" id="img-dbc2f34c-88" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-89">
+            <use xlink:href="#img-dbc2f34c-90" x="375.07" y="248.51" id="img-dbc2f34c-91" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-92">
+            <use xlink:href="#img-dbc2f34c-93" x="334.85" y="233.48" id="img-dbc2f34c-94" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-95">
+            <use xlink:href="#img-dbc2f34c-96" x="293.37" y="219.88" id="img-dbc2f34c-97" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-98">
+            <use xlink:href="#img-dbc2f34c-99" x="263.21" y="204.84" id="img-dbc2f34c-100" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-101">
+            <use xlink:href="#img-dbc2f34c-102" x="224.25" y="190.52" id="img-dbc2f34c-103" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-104">
+            <use xlink:href="#img-dbc2f34c-105" x="201.62" y="175.49" id="img-dbc2f34c-106" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-107">
+            <use xlink:href="#img-dbc2f34c-108" x="182.77" y="162.6" id="img-dbc2f34c-109" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-110">
+            <use xlink:href="#img-dbc2f34c-111" x="160.15" y="147.56" id="img-dbc2f34c-112" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-113">
+            <use xlink:href="#img-dbc2f34c-114" x="148.83" y="133.24" id="img-dbc2f34c-115" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-116">
+            <use xlink:href="#img-dbc2f34c-117" x="137.52" y="118.93" id="img-dbc2f34c-118" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-119">
+            <use xlink:href="#img-dbc2f34c-120" x="146.32" y="105.32" id="img-dbc2f34c-121" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-122">
+            <use xlink:href="#img-dbc2f34c-123" x="161.4" y="89.57" id="img-dbc2f34c-124" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-125">
+            <use xlink:href="#img-dbc2f34c-126" x="240.59" y="75.25" id="img-dbc2f34c-127" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-128">
+            <use xlink:href="#img-dbc2f34c-129" x="358.73" y="62.36" id="img-dbc2f34c-130" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-131">
+            <use xlink:href="#img-dbc2f34c-132" x="396.44" y="48.05" id="img-dbc2f34c-133" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-134">
+            <use xlink:href="#img-dbc2f34c-135" x="427.86" y="32.29" id="img-dbc2f34c-136" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-137">
+            <use xlink:href="#img-dbc2f34c-138" x="427.86" y="17.98" id="img-dbc2f34c-139" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-140">
+            <use xlink:href="#img-dbc2f34c-141" x="451.74" y="6.52" id="img-dbc2f34c-142" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-143">
+            <use xlink:href="#img-dbc2f34c-144" x="465.57" y="-13.53" id="img-dbc2f34c-145" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-146">
+            <use xlink:href="#img-dbc2f34c-147" x="481.91" y="-24.98" id="img-dbc2f34c-148" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-149">
+            <use xlink:href="#img-dbc2f34c-150" x="500.76" y="-45.74" id="img-dbc2f34c-151" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-152">
+            <use xlink:href="#img-dbc2f34c-153" x="540.98" y="-80.83" id="img-dbc2f34c-154" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-155">
+            <use xlink:href="#img-dbc2f34c-156" x="600.05" y="-115.19" id="img-dbc2f34c-157" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-158">
+            <use xlink:href="#img-dbc2f34c-159" x="671.7" y="-157.43" id="img-dbc2f34c-160" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-161">
+            <use xlink:href="#img-dbc2f34c-162" x="753.39" y="-194.66" id="img-dbc2f34c-163" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-164">
+            <use xlink:href="#img-dbc2f34c-165" x="664.15" y="340.16" id="img-dbc2f34c-166" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-167">
+            <use xlink:href="#img-dbc2f34c-168" x="617.65" y="326.55" id="img-dbc2f34c-169" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-170">
+            <use xlink:href="#img-dbc2f34c-171" x="571.15" y="312.23" id="img-dbc2f34c-172" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-173">
+            <use xlink:href="#img-dbc2f34c-174" x="507.04" y="297.91" id="img-dbc2f34c-175" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-176">
+            <use xlink:href="#img-dbc2f34c-177" x="464.31" y="282.88" id="img-dbc2f34c-178" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-179">
+            <use xlink:href="#img-dbc2f34c-180" x="412.78" y="269.28" id="img-dbc2f34c-181" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-182">
+            <use xlink:href="#img-dbc2f34c-183" x="370.04" y="255.67" id="img-dbc2f34c-184" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-185">
+            <use xlink:href="#img-dbc2f34c-186" x="321.03" y="240.64" id="img-dbc2f34c-187" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-188">
+            <use xlink:href="#img-dbc2f34c-189" x="279.55" y="226.32" id="img-dbc2f34c-190" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-191">
+            <use xlink:href="#img-dbc2f34c-192" x="250.64" y="211.28" id="img-dbc2f34c-193" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-194">
+            <use xlink:href="#img-dbc2f34c-195" x="221.73" y="198.4" id="img-dbc2f34c-196" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-197">
+            <use xlink:href="#img-dbc2f34c-198" x="201.62" y="184.08" id="img-dbc2f34c-199" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-200">
+            <use xlink:href="#img-dbc2f34c-201" x="186.54" y="169.04" id="img-dbc2f34c-202" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-203">
+            <use xlink:href="#img-dbc2f34c-204" x="170.2" y="154.72" id="img-dbc2f34c-205" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-206">
+            <use xlink:href="#img-dbc2f34c-207" x="160.15" y="138.97" id="img-dbc2f34c-208" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-209">
+            <use xlink:href="#img-dbc2f34c-210" x="160.15" y="126.8" id="img-dbc2f34c-211" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-212">
+            <use xlink:href="#img-dbc2f34c-213" x="168.94" y="111.05" id="img-dbc2f34c-214" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-215">
+            <use xlink:href="#img-dbc2f34c-216" x="195.34" y="98.16" id="img-dbc2f34c-217" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-218">
+            <use xlink:href="#img-dbc2f34c-219" x="280.81" y="83.13" id="img-dbc2f34c-220" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-221">
+            <use xlink:href="#img-dbc2f34c-222" x="382.61" y="68.81" id="img-dbc2f34c-223" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-224">
+            <use xlink:href="#img-dbc2f34c-225" x="405.24" y="53.77" id="img-dbc2f34c-226" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-227">
+            <use xlink:href="#img-dbc2f34c-228" x="415.29" y="39.45" id="img-dbc2f34c-229" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-230">
+            <use xlink:href="#img-dbc2f34c-231" x="434.15" y="28" id="img-dbc2f34c-232" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-233">
+            <use xlink:href="#img-dbc2f34c-234" x="451.74" y="2.22" id="img-dbc2f34c-235" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-236">
+            <use xlink:href="#img-dbc2f34c-237" x="493.22" y="-35.72" id="img-dbc2f34c-238" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-239">
+            <use xlink:href="#img-dbc2f34c-240" x="534.7" y="-70.09" id="img-dbc2f34c-241" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-242">
+            <use xlink:href="#img-dbc2f34c-243" x="586.23" y="-106.6" id="img-dbc2f34c-244" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-245">
+            <use xlink:href="#img-dbc2f34c-246" x="644.04" y="-141.68" id="img-dbc2f34c-247" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-248">
+            <use xlink:href="#img-dbc2f34c-249" x="713.17" y="-178.2" id="img-dbc2f34c-250" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#FF9A4B" id="img-dbc2f34c-251">
+            <use xlink:href="#img-dbc2f34c-252" x="797.38" y="-213.99" id="img-dbc2f34c-253" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-254">
+            <use xlink:href="#img-dbc2f34c-255" x="769.73" y="360.92" id="img-dbc2f34c-256" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-257">
+            <use xlink:href="#img-dbc2f34c-258" x="711.92" y="347.32" id="img-dbc2f34c-259" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-260">
+            <use xlink:href="#img-dbc2f34c-261" x="684.26" y="333" id="img-dbc2f34c-262" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-263">
+            <use xlink:href="#img-dbc2f34c-264" x="650.33" y="320.11" id="img-dbc2f34c-265" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-266">
+            <use xlink:href="#img-dbc2f34c-267" x="590" y="305.07" id="img-dbc2f34c-268" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-269">
+            <use xlink:href="#img-dbc2f34c-270" x="528.41" y="290.75" id="img-dbc2f34c-271" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-272">
+            <use xlink:href="#img-dbc2f34c-273" x="478.14" y="276.44" id="img-dbc2f34c-274" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-275">
+            <use xlink:href="#img-dbc2f34c-276" x="426.6" y="262.12" id="img-dbc2f34c-277" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-278">
+            <use xlink:href="#img-dbc2f34c-279" x="375.07" y="248.51" id="img-dbc2f34c-280" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-281">
+            <use xlink:href="#img-dbc2f34c-282" x="334.85" y="233.48" id="img-dbc2f34c-283" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-284">
+            <use xlink:href="#img-dbc2f34c-285" x="293.37" y="219.88" id="img-dbc2f34c-286" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-287">
+            <use xlink:href="#img-dbc2f34c-288" x="263.21" y="204.84" id="img-dbc2f34c-289" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-290">
+            <use xlink:href="#img-dbc2f34c-291" x="224.25" y="190.52" id="img-dbc2f34c-292" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-293">
+            <use xlink:href="#img-dbc2f34c-294" x="201.62" y="175.49" id="img-dbc2f34c-295" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-296">
+            <use xlink:href="#img-dbc2f34c-297" x="182.77" y="162.6" id="img-dbc2f34c-298" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-299">
+            <use xlink:href="#img-dbc2f34c-300" x="160.15" y="147.56" id="img-dbc2f34c-301" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-302">
+            <use xlink:href="#img-dbc2f34c-303" x="148.83" y="133.24" id="img-dbc2f34c-304" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-305">
+            <use xlink:href="#img-dbc2f34c-306" x="137.52" y="118.93" id="img-dbc2f34c-307" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-308">
+            <use xlink:href="#img-dbc2f34c-309" x="146.32" y="105.32" id="img-dbc2f34c-310" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-311">
+            <use xlink:href="#img-dbc2f34c-312" x="161.4" y="89.57" id="img-dbc2f34c-313" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-314">
+            <use xlink:href="#img-dbc2f34c-315" x="240.59" y="75.25" id="img-dbc2f34c-316" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-317">
+            <use xlink:href="#img-dbc2f34c-318" x="358.73" y="62.36" id="img-dbc2f34c-319" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-320">
+            <use xlink:href="#img-dbc2f34c-321" x="396.44" y="48.05" id="img-dbc2f34c-322" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-323">
+            <use xlink:href="#img-dbc2f34c-324" x="427.86" y="32.29" id="img-dbc2f34c-325" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-326">
+            <use xlink:href="#img-dbc2f34c-327" x="427.86" y="17.98" id="img-dbc2f34c-328" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-329">
+            <use xlink:href="#img-dbc2f34c-330" x="451.74" y="6.52" id="img-dbc2f34c-331" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-332">
+            <use xlink:href="#img-dbc2f34c-333" x="465.57" y="-13.53" id="img-dbc2f34c-334" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-335">
+            <use xlink:href="#img-dbc2f34c-336" x="481.91" y="-24.98" id="img-dbc2f34c-337" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-338">
+            <use xlink:href="#img-dbc2f34c-339" x="500.76" y="-45.74" id="img-dbc2f34c-340" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-341">
+            <use xlink:href="#img-dbc2f34c-342" x="540.98" y="-80.83" id="img-dbc2f34c-343" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-344">
+            <use xlink:href="#img-dbc2f34c-345" x="600.05" y="-115.19" id="img-dbc2f34c-346" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-347">
+            <use xlink:href="#img-dbc2f34c-348" x="671.7" y="-157.43" id="img-dbc2f34c-349" class="color_M3"/>
+          </g>
+          <g stroke="#FFFFFF" fill="#93A649" id="img-dbc2f34c-350">
+            <use xlink:href="#img-dbc2f34c-351" x="753.39" y="-194.66" id="img-dbc2f34c-352" class="color_M3"/>
+          </g>
+        </g>
+      </g>
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke-dasharray="none" id="img-dbc2f34c-353">
+        <path fill="none" d="M1115.38,610.12 L 1109.09 603.61 1104.06 597.02 1099.04 590.43 1092.75 583.85 1087.72 577.4 1081.44 570.74 1075.15 564.16 1070.13 557.71 1063.84 551.48 1057.56 545.26 1051.27 539.1 1044.99 532.8 1039.96 526.57 1033.68 520.2 1028.65 513.97 1021.11 507.67 1014.82 501.44 1008.54 495.14 1002.26 488.84 995.97 482.61 989.69 476.38 980.89 470.22 970.83 464.21 962.04 458.27 953.24 452.61 944.44 446.88 935.64 441.3 926.84 435.64 916.79 429.99 907.99 424.26 897.93 418.67 887.88 413.02 877.82 407.29 865.26 402.49 851.43 397.55 838.86 393.19 826.29 388.82 813.72 384.52 799.9 380.08 787.33 375.72 774.76 371.28 760.93 366.98 748.37 362.69 734.54 358.18 720.71 353.81 706.89 349.44 693.06 345.15 679.24 340.71 665.41 336.34 651.59 331.97 636.5 327.6 622.68 323.17 608.85 319.3 596.28 315.36 582.46 311.57 568.63 307.77 554.81 303.91 540.98 300.04 527.15 296.17 514.59 292.09 499.5 288.16 485.68 284.29 471.85 280.28 458.03 276.27 444.2 272.26 430.37 268.18 416.55 264.03 402.72 260.09 391.41 256.22 378.84 252.36 366.27 248.42 354.96 244.48 342.39 240.62 331.08 236.61 318.51 232.45 307.2 227.94 295.89 223.43 285.83 218.92 274.52 214.41 263.21 209.76 251.9 205.25 241.84 200.38 231.79 195.51 221.73 190.71 214.19 185.92 206.65 181.12 199.11 176.25 191.57 171.17 185.28 166.09 177.74 160.93 171.46 155.7 165.17 150.26 158.89 144.96 152.6 139.81 145.06 134.44 138.78 129.14 135.01 123.34 131.24 117.76 127.47 111.74 124.95 105.95 124.95 102.94 126.21 99.93 127.47 97.07 129.98 94.35 132.49 91.77 136.26 89.33 140.04 87.12 145.06 85.11 148.83 83.18 153.86 81.46 158.89 79.81 163.92 78.31 168.94 76.88 173.97 75.59 179 74.37 185.28 73.3 190.31 72.3 196.6 71.36 201.62 70.51 209.16 69.72 216.71 69.07 224.25 68.36 231.79 67.78 239.33 67.21 246.87 66.64 253.15 66.14 260.7 65.71 268.24 65.28 275.78 64.85 283.32 64.42 290.86 64.06 298.4 63.56 304.69 63.13 312.23 62.63 319.77 62.13 326.05 61.56 333.6 60.77 339.88 59.91 347.42 58.98 353.71 57.83 359.99 56.54 365.02 55.04 371.3 53.54 377.59 51.82 383.87 49.89 388.9 47.95 393.93 45.66 397.7 43.37 401.47 41.01 403.98 39.22 409.01 35.92 414.04 31.99 417.81 27.91 421.58 23.97 425.35 19.89 427.86 15.81 431.63 11.65 435.4 7.43 437.92 3.28 441.69 -0.8 444.2 -5.03 446.71 -9.18 450.49 -13.55 454.26 -17.63 456.77 -21.85 460.54 -26.01 464.31 -30.09 468.08 -34.38 470.6 -38.53 474.37 -42.62 479.39 -46.55 483.16 -50.78 486.93 -54.86 490.71 -59.08 494.48 -63.16 498.25 -67.46 503.27 -71.54 508.3 -75.48 512.07 -79.49 517.1 -83.78 522.13 -87.79 527.15 -91.52 532.18 -95.88 538.47 -99.39 543.49 -103.62 548.52 -107.55 554.81 -111.49 561.09 -115.71 567.37 -119.37 574.92 -123.16 582.46 -127.03 591.26 -131.11 598.8 -134.62 606.34 -138.27 615.14 -141.99 623.93 -146.07 632.73 -149.94 641.53 -153.3 650.33 -157.45 656.61 -160.96 651.59 -159.75 646.56 -158.17 642.79 -157.1 647.82 -158.82 647.82 -159.24 654.1 -161.89 662.9 -164.9 671.7 -168.19 679.24 -171.34 688.04 -174.42 696.83 -177.5 705.63 -180.72 713.17 -183.8 721.97 -186.95 732.03 -189.96 740.82 -193.04 749.62 -196.33 758.42 -199.41 767.22 -202.27 777.27 -205.28 786.07 -208.43 796.13 -211.65 804.93 -214.59 814.98 -217.67 825.04 -220.46 833.83 -223.82 843.89 -226.83 853.94 -229.48 864 -232.7 874.05 -235.64 884.11 -238.57 894.16 -241.15 904.22 -244.37 915.53 -247.16 925.59 -250.1 936.9 -253.03 950.72 -255.83 964.55 -258.19 978.38 -261.27 992.2 -263.77 1006.03 -265.71 1019.85 -268.43 1033.68 -271.29 1047.5 -273.44 1061.33 -276.52 1075.15 -278.88 1087.72 -281.39 1101.55 -283.89 1115.38 -286.61 1127.94 -289.41 1141.77 -291.41 1154.34 -294.42 1166.91 -296.49 1179.48 -299.72 1193.3 -302.01 1207.13 -304.23 1224.72 -306.45 1242.32 -308.74 1258.66 -311.1 1276.26 -313.53 1293.85 -314.97 1311.45 -317.61 1327.79 -319.12 1345.38 -321.98 1362.98 -323.56 1380.58 -326.64 1399.43 -328.35 1417.03 -330.14 1434.62 -331.93 1452.22 -333.87 1471.07 -335.8 1488.67 -337.8 1507.52 -339.88 1525.12 -342.1 1543.97 -342.6 1567.85 -344.53 1592.99 -346.54 1618.13 -346.68 1643.27 -349.62" id="img-dbc2f34c-354" stroke="#00B78D" class="geometry color_11gyr"/>
+        <path fill="none" d="M1115.38,611.27 L 1109.09 604.18 1104.06 597.23 1097.78 590.15 1091.49 583.06 1085.21 575.97 1078.93 568.88 1072.64 561.72 1066.36 554.99 1060.07 548.33 1053.79 541.6 1046.25 534.87 1039.96 528.22 1033.68 521.41 1028.65 514.61 1022.37 507.88 1014.82 501.15 1008.54 494.35 1001 487.55 994.71 480.75 985.92 474.23 975.86 467.65 965.81 461.06 957.01 455.04 946.95 448.96 938.15 442.8 928.1 436.72 918.04 430.63 907.99 424.4 896.68 418.32 886.62 412.23 874.05 406.79 858.97 401.56 845.15 396.48 832.58 391.75 818.75 387.1 804.93 382.38 791.1 377.65 776.02 372.85 762.19 368.27 748.37 363.47 733.28 358.75 719.46 354.02 704.37 349.3 689.29 344.57 674.21 339.92 659.13 335.12 644.04 330.4 628.96 325.67 613.88 321.23 600.05 317.22 584.97 313.07 569.89 308.99 556.06 304.91 540.98 300.76 525.9 296.75 510.82 292.59 495.73 288.44 480.65 284.22 465.57 280.14 449.23 275.84 434.15 271.69 419.06 267.39 403.98 263.38 391.41 259.37 377.59 255.51 363.76 251.5 349.93 247.63 337.37 243.19 324.8 238.75 312.23 234.24 299.66 229.66 287.09 225.08 274.52 220.43 261.95 215.7 249.38 210.9 238.07 206.04 225.5 201.17 216.71 196.37 207.91 191.5 197.85 186.63 189.05 181.69 180.26 176.75 171.46 171.88 161.4 167.02 152.6 161.93 143.81 156.99 135.01 151.91 126.21 146.83 116.15 141.81 107.36 136.59 98.56 131.43 89.76 126.28 82.22 120.98 75.93 115.61 69.65 110.24 63.37 104.51 58.34 98.64 54.57 92.41 49.54 86.4 45.77 80.81 45.77 77.59 45.77 74.01 47.03 70.58 49.54 67.43 52.05 64.63 55.82 61.99 59.59 59.69 64.62 57.69 69.65 55.83 74.68 54.11 80.96 52.61 88.5 51.25 94.79 50.03 102.33 48.88 108.61 47.81 116.15 46.88 123.7 46.02 129.98 45.16 137.52 44.37 145.06 43.66 151.35 42.94 158.89 42.37 166.43 41.8 172.71 41.29 180.26 40.79 186.54 40.36 194.08 40.01 202.88 39.72 211.68 39.65 220.48 39.5 230.53 39.5 239.33 39.5 248.13 39.43 256.93 39.5 266.98 39.5 275.78 39.58 284.58 39.58 293.37 39.43 302.17 39.22 310.97 39 319.77 38.57 328.57 37.93 336.11 36.93 343.65 35.78 351.19 34.35 358.73 32.56 365.02 30.48 371.3 28.26 377.59 25.83 382.61 23.68 387.64 20.53 393.93 16.74 398.95 12.87 403.98 9 407.75 5.07 411.52 0.99 415.29 -3.09 419.06 -7.32 422.83 -11.47 426.6 -15.7 430.37 -19.92 432.89 -24.14 436.66 -28.37 440.43 -32.45 442.94 -36.82 447.97 -40.9 451.74 -45.05 455.51 -49.2 459.28 -53.43 463.05 -57.51 468.08 -61.73 470.6 -65.74 475.62 -69.89 479.39 -74.19 484.42 -78.2 488.19 -82.42 493.22 -86.5 496.99 -90.8 502.02 -94.95 507.04 -99.03 512.07 -102.83 517.1 -106.84 523.38 -111.06 528.41 -115 534.7 -119.15 540.98 -123.09 547.26 -127.1 552.29 -130.89 558.58 -134.83 564.86 -138.98 573.66 -142.63 581.2 -146.79 590 -150.37 598.8 -154.23 607.6 -157.6 616.39 -161.89 625.19 -165.55 633.99 -168.91 644.04 -172.78 650.33 -176.57 645.3 -175.21 640.27 -173.56 635.25 -171.77 637.76 -172.92 639.02 -173.85 646.56 -176.28 654.1 -179.15 661.64 -182.08 670.44 -185.09 677.98 -188.03 685.52 -190.96 694.32 -193.75 701.86 -196.55 710.66 -199.55 719.46 -202.42 727 -205.14 735.8 -208.07 744.6 -210.79 753.39 -213.59 762.19 -216.45 770.99 -219.24 779.79 -222.03 788.59 -224.97 797.38 -227.69 806.18 -230.55 816.24 -233.2 825.04 -235.92 835.09 -238.72 843.89 -241.29 852.69 -244.37 862.74 -247.09 872.8 -249.53 881.6 -252.53 891.65 -255.18 900.45 -257.98 910.5 -260.41 920.56 -263.27 930.61 -265.92 940.67 -268.64 954.49 -270.79 967.06 -273.37 980.89 -275.59 993.46 -277.88 1006.03 -280.31 1018.6 -282.82 1032.42 -285.47 1043.73 -287.54 1057.56 -289.76 1070.13 -292.63 1081.44 -294.92 1094.01 -297.35 1106.58 -299.86 1119.15 -301.79 1131.71 -304.44 1144.28 -306.52 1156.85 -309.31 1168.16 -311.53 1180.73 -313.75 1193.3 -316.11 1205.87 -317.76 1222.21 -319.98 1238.55 -322.27 1254.89 -323.84 1272.49 -326.28 1288.82 -327.92 1305.16 -329.64 1322.76 -331.36 1339.1 -333.15 1356.7 -335.01 1373.04 -336.94 1390.63 -338.88 1406.97 -340.95 1424.57 -341.96 1442.16 -344.18 1458.5 -345.25 1476.1 -347.54 1493.7 -348.69 1511.29 -350.91 1528.89 -352.48" id="img-dbc2f34c-355" stroke="#00BFFF" class="geometry color_8gyr"/>
+        <path fill="none" d="M1114.12,608.76 L 1109.09 602.75 1104.06 596.66 1099.04 590.58 1094.01 584.56 1088.98 578.48 1083.95 572.32 1077.67 566.23 1072.64 560.29 1067.61 554.49 1061.33 548.69 1056.3 542.89 1050.02 537.09 1044.99 531.37 1038.71 525.57 1033.68 519.77 1027.39 513.9 1021.11 508.24 1014.82 502.37 1009.8 496.57 1003.51 490.77 997.23 484.9 992.2 479.1 985.92 473.44 978.38 467.86 969.58 462.2 960.78 456.83 953.24 451.61 944.44 446.38 935.64 441.23 926.84 436 918.04 430.77 909.25 425.48 900.45 420.32 891.65 415.09 881.6 409.94 871.54 404.71 861.49 399.63 850.17 395.19 837.6 391.18 826.29 387.1 813.72 383.09 802.41 379.15 789.84 375.07 778.53 371.06 765.96 367.05 753.39 363.04 740.82 358.96 728.26 354.88 715.69 350.87 703.12 346.94 690.55 342.71 676.72 338.7 664.15 334.76 651.59 330.68 637.76 326.67 625.19 322.52 612.62 318.73 600.05 315.15 587.49 311.5 574.92 307.77 562.35 304.05 551.04 300.4 538.47 296.68 525.9 292.95 513.33 289.16 500.76 285.29 488.19 281.43 475.62 277.7 463.05 273.69 450.49 269.9 437.92 266.03 425.35 262.09 412.78 258.01 401.47 254.15 390.15 250.42 378.84 246.63 368.79 242.76 357.48 238.83 347.42 235.1 337.37 231.02 326.05 226.87 316 222.86 305.94 218.64 295.89 214.41 285.83 210.12 277.04 205.75 268.24 201.1 259.44 196.3 250.64 191.5 243.1 186.85 235.56 181.84 228.02 176.61 221.73 171.81 215.45 166.73 210.42 161.57 205.39 156.56 204.14 151.05 201.62 145.75 199.11 140.31 199.11 135.3 199.11 133.01 200.37 130.29 201.62 127.71 202.88 125.13 205.39 122.7 207.91 120.41 211.68 118.19 215.45 116.25 220.48 114.39 225.5 112.6 230.53 110.96 235.56 109.38 241.84 107.88 246.87 106.45 253.15 105.16 258.18 103.87 264.47 102.72 270.75 101.58 277.04 100.58 283.32 99.5 288.35 98.5 294.63 97.57 300.92 96.64 307.2 95.64 313.48 94.63 319.77 93.7 326.05 92.84 331.08 91.91 337.37 90.91 343.65 89.76 348.68 88.69 354.96 87.47 359.99 86.26 365.02 84.9 371.3 83.46 376.33 82.03 382.61 80.53 387.64 78.95 392.67 77.31 397.7 75.45 401.47 73.37 405.24 71.29 409.01 69.14 412.78 67 416.55 64.63 419.06 62.34 421.58 59.91 424.09 57.47 426.6 55.04 427.86 53.61 430.37 50.17 434.15 46.23 436.66 42.08 439.17 37.93 442.94 33.78 445.46 29.62 447.97 25.47 450.49 21.18 453 17.17 455.51 12.94 458.03 8.72 461.8 4.49 464.31 0.27 466.82 -3.88 470.6 -7.82 473.11 -11.97 475.62 -16.27 479.39 -20.42 481.91 -24.43 485.68 -28.8 489.45 -32.66 493.22 -36.82 496.99 -41.11 500.76 -45.12 504.53 -48.92 509.56 -53.36 513.33 -56.86 518.36 -61.16 522.13 -65.17 525.9 -69.32 530.93 -73.04 535.95 -77.55 539.72 -81.71 544.75 -85.22 549.78 -89.65 554.81 -93.52 559.83 -97.53 567.37 -100.75 574.92 -104.98 582.46 -108.41 590 -111.99 597.54 -115.79 605.08 -119.72 613.88 -123.81 622.68 -126.96 630.22 -131.32 637.76 -134.54 647.82 -138.12 655.36 -142.06 660.38 -145.43 656.61 -144.5 651.59 -143.21 654.1 -144.35 656.61 -145.21 656.61 -145.5 662.9 -147.79 671.7 -151.3 679.24 -154.59 688.04 -157.96 696.83 -161.39 705.63 -164.69 714.43 -168.05 723.23 -171.56 732.03 -174.85 740.82 -178.29 750.88 -181.22 759.68 -184.8 769.73 -188.03 778.53 -191.39 788.59 -194.61 797.38 -197.91 807.44 -200.77 817.49 -204.35 827.55 -207.43 837.6 -210.58 847.66 -213.94 857.71 -216.81 867.77 -220.39 879.08 -223.39 889.14 -226.62 899.19 -229.12 910.5 -232.56 921.82 -235.28 933.13 -238.93 946.95 -241.65 962.04 -244.44 977.12 -247.31 990.94 -249.46 1004.77 -252.61 1019.85 -254.9 1034.93 -258.26 1048.76 -260.77 1062.59 -263.42 1077.67 -266.07 1091.49 -268.79 1106.58 -271.72 1120.4 -273.44 1135.49 -276.59 1149.31 -278.45 1163.14 -281.82 1176.96 -283.96 1190.79 -286.18 1205.87 -289.84 1222.21 -291.98 1239.81 -294.2 1257.4 -296.49 1275 -298.86 1292.6 -301.29 1310.19 -303.94 1327.79 -306.59 1345.38 -309.45 1362.98 -310.38 1380.58 -313.46 1399.43 -316.61 1417.03 -317.69 1434.62 -321.12 1453.48 -322.27 1471.07 -325.92 1489.93 -327.21 1507.52 -328.5 1526.38 -329.93 1546.49 -333.87 1570.37 -335.01 1595.5 -336.23 1620.64 -337.52 1645.78 -338.81 1672.17 -340.17 1697.31 -341.6 1724.96 -345.54" id="img-dbc2f34c-356" stroke="#00E6D3" class="geometry color_16gyr"/>
+        <path fill="none" d="M1114.12,608.98 L 1109.09 602.89 1104.06 596.73 1099.04 590.58 1094.01 584.49 1088.98 578.19 1082.7 572.1 1077.67 565.95 1072.64 559.86 1066.36 553.92 1061.33 548.12 1055.04 542.32 1050.02 536.45 1043.73 530.58 1038.71 524.71 1033.68 518.76 1026.14 512.97 1021.11 507.09 1014.82 501.22 1008.54 495.35 1002.26 489.48 995.97 483.54 992.2 477.67 983.4 471.94 975.86 466.21 967.06 460.56 958.26 455.26 949.47 449.96 941.93 444.66 933.13 439.37 924.33 434.07 915.53 428.77 905.48 423.47 896.68 418.17 886.62 413.02 877.82 407.65 867.77 402.42 855.2 397.77 843.89 393.47 831.32 389.46 820.01 385.31 807.44 381.23 794.87 377.15 783.56 373.07 770.99 368.99 758.42 364.98 745.85 360.83 733.28 356.82 720.71 352.73 706.89 348.58 694.32 344.5 681.75 340.49 667.93 336.27 655.36 332.26 641.53 328.18 628.96 324.03 615.14 320.02 602.57 316.29 590 312.71 577.43 308.92 564.86 305.34 552.29 301.54 539.72 297.75 527.15 293.88 514.59 290.16 502.02 286.29 489.45 282.5 476.88 278.63 464.31 274.77 450.49 270.76 437.92 266.82 425.35 262.95 412.78 258.94 400.21 255.01 390.15 251.21 378.84 247.56 367.53 243.62 356.22 239.83 346.16 235.82 334.85 231.95 324.8 227.94 313.48 223.72 303.43 219.57 293.37 215.41 283.32 211.05 273.26 206.39 264.47 201.74 255.67 197.01 246.87 192.15 238.07 187.35 230.53 182.41 222.99 177.54 216.71 172.53 210.42 167.45 205.39 162.22 200.37 157.21 195.34 151.98 194.08 146.61 191.57 140.88 190.31 135.51 189.05 130.29 189.05 127.92 190.31 125.2 192.82 122.63 194.08 120.12 196.6 117.76 199.11 115.47 201.62 113.25 205.39 111.24 209.16 109.38 214.19 107.66 219.22 106.02 225.5 104.51 230.53 103.08 236.82 101.65 241.84 100.36 248.13 99.14 254.41 98 260.7 97 266.98 95.92 273.26 94.99 279.55 94.06 285.83 93.13 290.86 92.27 297.15 91.41 303.43 90.48 309.71 89.69 316 88.91 322.28 88.12 328.57 87.26 334.85 86.26 341.14 85.25 346.16 84.25 352.45 83.18 357.48 81.96 363.76 80.67 368.79 79.24 373.82 77.88 380.1 76.45 385.13 74.94 390.15 73.15 395.18 71.36 400.21 69.29 403.98 67.28 407.75 65.21 411.52 62.99 414.04 60.7 417.81 58.41 420.32 55.97 422.83 53.39 424.09 52.03 426.6 48.6 430.37 44.59 434.15 40.58 436.66 36.35 439.17 32.13 441.69 28.12 444.2 23.9 446.71 19.74 450.49 15.59 453 11.51 455.51 7.21 459.28 3.06 461.8 -1.16 465.57 -5.24 468.08 -9.4 470.6 -13.69 473.11 -17.92 476.88 -21.92 480.65 -26.15 483.16 -30.37 486.93 -34.53 490.71 -38.46 494.48 -42.62 499.5 -46.48 503.27 -50.56 507.04 -54.86 512.07 -58.8 515.84 -62.45 519.61 -66.81 524.64 -70.82 528.41 -74.98 533.44 -78.7 538.47 -82.64 542.24 -86.72 547.26 -91.01 552.29 -94.74 558.58 -98.53 564.86 -102.47 572.4 -106.55 579.94 -109.84 588.74 -114.28 595.03 -117.93 603.82 -121.73 611.37 -125.67 620.16 -128.6 627.71 -132.9 636.5 -135.98 645.3 -139.27 654.1 -143.64 659.13 -147.65 655.36 -146.64 650.33 -145.21 652.84 -146.36 655.36 -147.22 655.36 -147.5 661.64 -150.01 670.44 -153.37 679.24 -156.52 686.78 -160.1 695.58 -163.4 704.37 -166.91 713.17 -170.13 721.97 -173.49 730.77 -176.64 739.57 -179.94 749.62 -183.16 758.42 -186.52 768.48 -189.6 777.27 -193.32 787.33 -196.4 797.38 -199.55 806.18 -202.85 816.24 -206.21 826.29 -209.15 836.35 -212.23 846.4 -215.38 856.46 -218.74 866.51 -221.46 877.82 -225.04 887.88 -228.05 897.93 -231.2 909.25 -234.49 920.56 -237.07 930.61 -240.58 945.7 -243.15 959.52 -245.8 974.6 -248.52 988.43 -251.46 1003.51 -254.47 1018.6 -256.61 1032.42 -259.84 1046.25 -262.2 1060.07 -264.63 1075.15 -267.14 1090.24 -269.79 1104.06 -272.51 1117.89 -275.3 1132.97 -278.24 1146.8 -280.03 1160.62 -283.25 1174.45 -285.25 1188.27 -288.83 1202.1 -290.91 1219.7 -294.42 1236.04 -296.42 1253.63 -298.64 1271.23 -300.86 1288.82 -303.22 1306.42 -305.66 1324.02 -308.16 1342.87 -310.81 1360.47 -313.6 1378.06 -314.54 1395.66 -317.47 1414.51 -318.47 1432.11 -321.62 1450.96 -324.99 1468.56 -326.06 1487.41 -327.28 1505.01 -330.86 1523.86 -332.08 1542.71 -333.37 1567.85 -336.94 1591.73 -338.09 1616.87 -339.24 1642.01 -340.38 1668.4 -341.6 1694.8 -342.82 1721.19 -346.47" id="img-dbc2f34c-357" stroke="#63DF75" class="geometry color_15gyr"/>
+        <path fill="none" d="M1114.12,609.76 L 1109.09 603.32 1104.06 596.88 1099.04 590.43 1092.75 583.99 1087.72 577.54 1081.44 571.1 1076.41 564.66 1070.13 558.36 1065.1 552.27 1058.82 546.19 1052.53 540.03 1046.25 533.94 1041.22 527.79 1034.93 521.56 1029.91 515.47 1023.62 509.31 1016.08 503.09 1009.8 497 1003.51 490.84 998.49 484.69 992.2 478.46 984.66 472.44 974.6 466.57 965.81 460.63 957.01 455.04 948.21 449.46 939.41 443.88 930.61 438.36 921.82 432.78 913.02 427.27 902.96 421.75 892.91 416.24 884.11 410.58 872.8 405.21 860.23 400.42 847.66 395.84 835.09 391.47 822.52 387.24 809.95 383.02 797.38 378.58 784.82 374.36 770.99 370.13 758.42 365.84 745.85 361.61 732.03 357.25 718.2 352.95 705.63 348.65 691.81 344.36 677.98 340.13 664.15 335.77 650.33 331.54 636.5 327.25 622.68 322.95 608.85 319.16 596.28 315.22 582.46 311.5 569.89 307.63 556.06 303.91 543.49 299.97 529.67 296.17 515.84 292.31 502.02 288.37 489.45 284.5 475.62 280.42 461.8 276.49 447.97 272.48 434.15 268.32 420.32 264.31 407.75 260.23 395.18 256.51 383.87 252.72 372.56 248.78 359.99 244.91 348.68 240.97 337.37 236.96 324.8 233.1 313.48 229.02 302.17 224.65 292.12 220.21 280.81 215.63 270.75 210.98 260.7 206.47 249.38 201.67 240.59 196.87 230.53 192 221.73 187.21 214.19 182.41 206.65 177.47 200.37 172.46 192.82 167.52 186.54 162.29 180.26 157.21 175.23 151.69 168.94 146.54 163.92 140.96 160.15 135.37 156.37 129.64 153.86 123.92 150.09 118.19 147.58 112.89 148.83 110.38 148.83 107.45 150.09 104.66 152.6 102.01 155.12 99.43 157.63 97.07 161.4 94.85 165.17 92.77 168.94 90.91 173.97 89.12 177.74 87.4 182.77 85.83 187.8 84.39 191.57 83.03 196.6 81.75 201.62 80.6 209.16 79.6 215.45 78.74 222.99 77.88 229.27 77.09 236.82 76.38 243.1 75.66 250.64 74.94 256.93 74.3 264.47 73.73 272.01 73.15 278.29 72.58 285.83 72.08 292.12 71.58 299.66 71.01 305.94 70.43 313.48 69.79 319.77 69.14 326.05 68.5 333.6 67.78 339.88 66.93 346.16 65.99 352.45 64.92 357.48 63.7 363.76 62.41 370.04 60.98 376.33 59.41 381.36 57.76 386.38 55.97 391.41 53.97 396.44 51.82 400.21 49.53 403.98 47.24 407.75 44.87 410.26 43.16 414.04 39.79 417.81 35.85 421.58 31.84 425.35 27.83 429.12 23.61 431.63 19.53 435.4 15.45 437.92 11.08 441.69 6.93 444.2 2.78 447.97 -1.38 450.49 -5.53 453 -9.68 456.77 -13.91 460.54 -18.06 463.05 -22.14 466.82 -26.44 470.6 -30.52 473.11 -34.6 476.88 -38.82 480.65 -42.83 484.42 -47.2 488.19 -51.06 493.22 -55.07 496.99 -59.3 500.76 -63.38 505.79 -67.6 509.56 -71.61 514.59 -75.84 519.61 -79.85 524.64 -83.5 528.41 -87.86 533.44 -91.87 538.47 -96.1 543.49 -99.96 549.78 -103.97 554.81 -107.48 561.09 -111.85 568.63 -115.64 576.17 -119.58 583.71 -122.87 592.51 -127.1 600.05 -130.75 607.6 -134.54 616.39 -138.41 625.19 -141.7 632.73 -145.86 641.53 -149.72 650.33 -153.37 656.61 -157.1 652.84 -155.95 647.82 -154.45 645.3 -153.73 649.07 -155.45 650.33 -155.74 656.61 -158.31 665.41 -161.68 672.95 -164.9 681.75 -168.05 689.29 -171.2 698.09 -174.49 706.89 -177.64 715.69 -180.94 724.49 -184.02 733.28 -187.17 743.34 -190.1 752.14 -193.25 760.93 -196.47 769.73 -199.84 779.79 -202.7 788.59 -205.71 798.64 -209.15 807.44 -211.87 817.49 -215.16 827.55 -218.1 837.6 -221.25 847.66 -224.47 857.71 -227.33 867.77 -230.27 877.82 -233.35 887.88 -236.07 897.93 -239.36 909.25 -242.22 919.3 -245.23 929.36 -248.38 941.93 -250.74 957.01 -253.18 970.83 -256.4 984.66 -259.05 998.49 -261.77 1012.31 -263.85 1026.14 -266.78 1039.96 -269.14 1053.79 -271.51 1068.87 -274.73 1082.7 -277.38 1095.27 -279.17 1110.35 -281.96 1124.17 -284.82 1136.74 -286.97 1150.57 -290.05 1163.14 -292.34 1175.71 -294.7 1188.27 -298.14 1202.1 -300.65 1219.7 -303.01 1236.04 -304.3 1253.63 -306.73 1271.23 -309.38 1288.82 -312.1 1306.42 -313.6 1322.76 -316.61 1340.36 -318.33 1357.95 -320.05 1375.55 -321.84 1394.4 -325.2 1412 -327.14 1429.6 -329.14 1447.19 -331.22 1466.04 -333.37 1483.64 -333.87 1502.49 -336.16 1520.09 -338.45 1538.94 -340.88 1561.57 -341.31 1586.71 -343.53 1610.59 -345.75 1636.98 -346.04 1662.12 -348.54" id="img-dbc2f34c-358" stroke="#BEA9FF" class="geometry color_12gyr"/>
+        <path fill="none" d="M1114.12,609.26 L 1109.09 603.1 1104.06 596.8 1099.04 590.58 1094.01 584.27 1087.72 577.97 1082.7 571.82 1077.67 565.52 1071.38 559.36 1066.36 553.42 1060.07 547.47 1053.79 541.53 1048.76 535.59 1042.48 529.65 1037.45 523.63 1032.42 517.69 1026.14 511.75 1018.6 505.73 1012.31 499.86 1007.28 493.85 1001 487.91 994.71 481.89 989.69 475.88 980.89 470.08 972.09 464.42 963.29 458.7 955.75 453.33 946.95 448.03 938.15 442.52 929.36 437.22 920.56 431.78 910.5 426.48 901.71 421.11 892.91 415.74 882.85 410.37 872.8 405 861.49 400.13 848.92 395.62 836.35 391.4 825.04 387.32 812.47 383.09 799.9 378.94 787.33 374.86 774.76 370.63 762.19 366.55 749.62 362.47 737.05 358.32 724.49 354.1 710.66 349.87 698.09 345.86 684.26 341.71 671.7 337.56 657.87 333.4 644.04 329.18 630.22 324.96 617.65 320.95 605.08 317.3 592.51 313.57 578.69 309.85 566.12 306.05 553.55 302.33 540.98 298.47 528.41 294.67 514.59 290.88 502.02 286.87 489.45 283 475.62 279.06 463.05 275.13 450.49 271.19 436.66 267.32 424.09 263.24 410.26 259.16 398.95 255.36 387.64 251.5 376.33 247.78 365.02 243.98 353.71 240.12 342.39 236.25 331.08 232.31 321.03 228.23 309.71 223.93 298.4 220 288.35 215.56 278.29 210.9 269.49 206.32 259.44 201.6 250.64 196.94 241.84 191.93 233.04 187.21 224.25 182.27 216.71 177.33 210.42 172.39 205.39 167.3 199.11 162.22 194.08 156.92 189.05 151.77 184.03 146.4 182.77 140.81 180.26 135.16 179 129.57 179 124.99 179 122.98 180.26 120.26 181.51 117.69 184.03 115.18 186.54 112.75 189.05 110.53 191.57 108.31 195.34 106.3 199.11 104.44 202.88 102.65 206.65 100.93 212.93 99.43 217.96 98.07 224.25 96.71 230.53 95.42 236.82 94.2 243.1 93.13 249.38 92.13 255.67 91.12 261.95 90.19 268.24 89.33 274.52 88.48 280.81 87.69 287.09 86.9 293.37 86.11 299.66 85.4 305.94 84.75 312.23 84.11 318.51 83.32 324.8 82.53 331.08 81.6 337.37 80.67 343.65 79.74 349.93 78.74 354.96 77.66 361.25 76.45 366.27 75.09 372.56 73.8 377.59 72.44 383.87 70.86 388.9 69.14 392.67 67.21 397.7 65.28 401.47 63.2 405.24 61.05 409.01 58.84 412.78 56.47 415.29 54.18 417.81 51.75 420.32 50.1 422.83 46.52 426.6 42.58 430.37 38.5 432.89 34.42 436.66 30.27 439.17 26.04 441.69 21.89 444.2 17.67 447.97 13.44 450.49 9.29 453 5.28 456.77 1.13 459.28 -3.24 463.05 -7.32 465.57 -11.54 468.08 -15.62 471.85 -19.92 474.37 -24.07 478.14 -28.08 480.65 -32.59 484.42 -36.6 488.19 -40.54 493.22 -44.62 496.99 -48.56 500.76 -52.71 504.53 -57.01 509.56 -61.09 514.59 -64.95 518.36 -69.03 522.13 -73.33 527.15 -77.27 532.18 -81.35 535.95 -85.14 540.98 -89.73 546.01 -93.23 551.04 -97.53 557.32 -101.32 563.6 -105.33 569.89 -109.34 578.69 -112.78 586.23 -116.36 593.77 -120.08 601.31 -124.09 610.11 -128.1 618.91 -131.39 626.45 -134.9 635.25 -139.34 644.04 -143.06 652.84 -146.43 659.13 -150.37 654.1 -149.22 650.33 -147.86 650.33 -148.43 652.84 -149.51 654.1 -149.94 660.38 -152.44 669.18 -155.88 676.72 -159.17 685.52 -162.32 694.32 -165.83 703.12 -169.2 711.92 -172.42 720.71 -175.71 729.51 -178.86 738.31 -182.16 748.37 -185.38 757.16 -188.74 765.96 -191.96 774.76 -195.26 784.82 -198.19 794.87 -201.56 803.67 -204.56 813.72 -208.14 823.78 -210.87 833.83 -214.23 843.89 -217.24 853.94 -220.39 864 -223.61 875.31 -226.47 885.37 -229.41 895.42 -233.06 906.73 -235.64 916.79 -238.86 928.1 -241.65 940.67 -245.09 955.75 -247.74 969.58 -249.88 983.4 -252.82 998.49 -255.9 1012.31 -258.26 1027.39 -260.77 1041.22 -263.34 1055.04 -266.07 1070.13 -268.79 1083.95 -271.72 1097.78 -273.8 1112.86 -276.95 1126.69 -279.17 1140.51 -281.53 1154.34 -283.96 1168.16 -286.54 1180.73 -290.41 1194.56 -291.98 1209.64 -294.7 1227.24 -297.35 1244.83 -300.22 1262.43 -301.86 1280.03 -304.87 1297.62 -306.66 1315.22 -309.95 1332.82 -311.89 1350.41 -313.89 1368.01 -316.04 1385.6 -318.19 1404.46 -320.48 1422.05 -322.84 1439.65 -325.27 1458.5 -327.78 1476.1 -328.5 1494.95 -331.07 1513.81 -333.87 1531.4 -334.65 1552.77 -337.45 1577.91 -338.02 1603.04 -340.81 1628.18 -341.46 1653.32 -344.32 1679.71 -344.89 1706.11 -347.11" id="img-dbc2f34c-359" stroke="#C6C6C6" class="geometry color_14gyr"/>
+        <path fill="none" d="M1115.38,610.84 L 1109.09 604.04 1104.06 597.09 1097.78 590.22 1091.49 583.42 1086.47 576.47 1080.18 569.6 1073.9 562.72 1067.61 556.14 1061.33 549.55 1055.04 543.04 1048.76 536.45 1042.48 529.93 1036.19 523.35 1029.91 516.76 1024.88 510.17 1017.34 503.59 1011.05 497.07 1003.51 490.48 997.23 483.83 990.94 477.31 980.89 471.01 972.09 464.57 962.04 458.41 953.24 452.4 943.18 446.52 934.38 440.58 924.33 434.64 914.27 428.7 904.22 422.83 894.16 416.74 884.11 410.94 871.54 405.64 857.71 400.49 843.89 395.62 831.32 391.11 817.49 386.53 803.67 381.95 791.1 377.29 777.27 372.78 763.45 368.13 749.62 363.55 734.54 359.04 720.71 354.38 706.89 349.8 691.81 345.15 677.98 340.64 662.9 336.05 647.82 331.33 633.99 326.75 618.91 322.31 605.08 318.3 590 314.36 576.17 310.35 562.35 306.34 547.26 302.33 533.44 298.25 518.36 294.17 503.27 290.23 489.45 286.08 474.37 282 459.28 277.92 444.2 273.76 429.12 269.61 415.29 265.39 401.47 261.52 387.64 257.58 375.07 253.72 362.5 249.78 348.68 245.84 336.11 241.69 324.8 237.32 312.23 232.81 299.66 228.23 288.35 223.72 275.78 218.99 264.47 214.34 253.15 209.54 240.59 204.75 229.27 199.88 220.48 195.22 211.68 190.36 202.88 185.7 194.08 180.83 185.28 175.82 177.74 170.67 168.94 165.58 160.15 160.57 152.6 155.7 143.81 150.69 135.01 145.54 126.21 140.53 118.67 135.23 109.87 130.14 102.33 124.85 94.79 119.48 87.25 113.82 82.22 107.81 78.45 101.86 74.68 95.78 73.42 89.76 73.42 86.54 73.42 83.25 74.68 80.1 77.19 77.24 80.96 74.59 85.99 72.08 91.02 69.79 96.04 67.78 101.07 65.99 107.36 64.28 112.38 62.63 118.67 61.2 124.95 59.84 131.24 58.69 137.52 57.55 143.81 56.54 150.09 55.68 157.63 54.9 163.92 54.04 170.2 53.32 176.48 52.53 182.77 51.89 189.05 51.25 195.34 50.67 202.88 50.24 211.68 49.89 220.48 49.6 229.27 49.31 236.82 49.17 245.61 49.03 254.41 48.88 263.21 48.74 270.75 48.6 279.55 48.53 288.35 48.38 295.89 48.24 304.69 48.02 312.23 47.67 319.77 47.17 328.57 46.52 336.11 45.73 343.65 44.8 349.93 43.51 357.48 42.08 363.76 40.36 370.04 38.65 376.33 36.57 382.61 34.21 387.64 31.84 391.41 29.84 396.44 26.55 401.47 22.82 406.49 18.88 411.52 14.95 415.29 10.87 419.06 6.86 422.83 2.78 426.6 -1.45 429.12 -5.6 432.89 -9.75 435.4 -13.98 439.17 -18.13 441.69 -22.35 445.46 -26.51 449.23 -30.8 453 -34.81 456.77 -39.11 460.54 -43.26 464.31 -47.34 468.08 -51.42 473.11 -55.5 476.88 -59.8 480.65 -63.95 484.42 -68.03 488.19 -72.33 493.22 -76.48 496.99 -80.56 502.02 -84.79 507.04 -88.87 512.07 -92.73 517.1 -96.81 522.13 -100.75 527.15 -104.76 533.44 -108.48 538.47 -112.92 544.75 -116.65 551.04 -120.94 556.06 -124.88 562.35 -128.53 569.89 -132.83 577.43 -136.62 586.23 -140.42 593.77 -143.71 602.57 -147.93 611.37 -151.58 620.16 -154.95 628.96 -159.24 637.76 -163.11 646.56 -166.62 652.84 -170.41 647.82 -168.98 642.79 -167.26 637.76 -165.62 641.53 -167.19 642.79 -167.98 649.07 -170.56 657.87 -173.56 665.41 -176.5 674.21 -179.58 681.75 -182.58 690.55 -185.52 699.35 -188.53 706.89 -191.53 715.69 -194.47 724.49 -197.55 733.28 -200.56 742.08 -203.42 750.88 -206.35 759.68 -209.15 768.48 -212.3 778.53 -215.02 787.33 -218.1 796.13 -221.03 806.18 -223.68 814.98 -226.83 823.78 -229.77 833.83 -232.42 843.89 -235.14 853.94 -238 862.74 -240.94 872.8 -244.01 882.85 -246.73 892.91 -249.6 902.96 -252.18 911.76 -255.25 923.07 -257.98 933.13 -260.77 945.7 -263.06 958.26 -265.85 972.09 -268.21 985.92 -270.58 998.49 -273.15 1012.31 -275.73 1024.88 -277.88 1038.71 -280.74 1051.27 -283.11 1065.1 -285.47 1077.67 -287.97 1090.24 -290.62 1102.81 -293.27 1116.63 -295.35 1129.2 -298.21 1141.77 -300.43 1154.34 -302.72 1166.91 -305.08 1179.48 -307.52 1192.04 -310.1 1204.61 -312.67 1222.21 -314.25 1238.55 -316.76 1256.15 -318.54 1272.49 -321.27 1290.08 -323.13 1306.42 -325.06 1324.02 -327.06 1341.61 -329.14 1357.95 -331.22 1375.55 -332.36 1393.15 -334.58 1410.74 -336.87 1428.34 -338.09 1445.93 -340.52 1463.53 -341.89 1481.13 -343.25 1498.72 -345.89 1517.58 -347.33 1535.17 -348.83 1556.54 -350.05 1581.68 -351.84" id="img-dbc2f34c-360" stroke="#D4CA3A" class="geometry color_9gyr"/>
+        <path fill="none" d="M1114.12,608.55 L 1109.09 602.6 1104.06 596.59 1099.04 590.65 1094.01 584.56 1088.98 578.55 1083.95 572.6 1078.93 566.59 1072.64 560.51 1067.61 554.92 1062.59 549.26 1056.3 543.47 1051.27 537.81 1044.99 532.01 1039.96 526.35 1034.93 520.63 1028.65 514.9 1022.37 509.17 1016.08 503.52 1009.8 497.72 1004.77 492.06 998.49 486.33 993.46 480.53 988.43 474.73 980.89 469.22 972.09 463.71 963.29 458.27 955.75 453.18 946.95 447.96 938.15 442.87 930.61 437.65 921.82 432.56 913.02 427.41 904.22 422.33 894.16 417.17 885.37 412.02 875.31 406.79 866.51 401.78 855.2 396.98 843.89 392.76 831.32 388.82 820.01 384.74 808.7 380.8 796.13 376.86 784.82 372.85 772.25 368.99 760.93 364.91 748.37 360.97 735.8 357.03 723.23 353.02 710.66 349.01 698.09 345 685.52 341.06 672.95 336.98 660.38 333.05 646.56 328.89 633.99 324.88 621.42 320.95 608.85 317.3 596.28 313.57 584.97 309.99 572.4 306.41 559.83 302.83 547.26 299.11 535.95 295.46 523.38 291.74 510.82 288.01 498.25 284.15 485.68 280.49 474.37 276.63 461.8 272.76 449.23 268.82 436.66 264.89 424.09 261.09 411.52 257.01 400.21 253.29 390.15 249.42 380.1 245.7 368.79 241.9 358.73 237.82 348.68 233.96 338.62 229.95 328.57 225.87 318.51 221.86 308.46 217.63 298.4 213.27 289.6 208.97 279.55 204.53 270.75 200.02 261.95 195.51 254.41 190.64 246.87 185.7 240.59 180.69 233.04 175.68 226.76 170.74 220.48 165.66 215.45 160.43 212.93 155.42 210.42 149.76 209.16 144.46 207.91 139.95 207.91 137.88 209.16 135.16 210.42 132.51 211.68 129.93 215.45 127.57 217.96 125.2 221.73 123.06 226.76 120.98 230.53 119.12 235.56 117.26 240.59 115.54 245.61 113.96 251.9 112.46 256.93 111.03 261.95 109.6 268.24 108.31 274.52 107.09 279.55 105.95 285.83 104.87 292.12 103.73 298.4 102.72 304.69 101.72 309.71 100.65 316 99.64 322.28 98.5 327.31 97.5 333.6 96.57 339.88 95.49 344.91 94.42 351.19 93.2 356.22 91.84 362.5 90.62 367.53 89.26 372.56 87.83 378.84 86.4 383.87 84.82 388.9 83.11 393.93 81.46 398.95 79.53 402.72 77.52 406.49 75.45 410.26 73.3 414.04 71.01 417.81 68.86 420.32 66.35 422.83 63.99 425.35 61.56 427.86 59.12 430.37 56.69 431.63 55.18 434.15 51.82 436.66 47.74 440.43 43.66 442.94 39.36 445.46 35.28 447.97 31.06 450.49 26.98 453 22.82 455.51 18.6 458.03 14.52 460.54 10.22 463.05 6.21 466.82 1.85 469.34 -2.16 473.11 -6.25 475.62 -10.47 478.14 -14.55 480.65 -18.85 484.42 -23 488.19 -27.15 490.71 -31.16 494.48 -35.38 498.25 -39.39 503.27 -43.55 507.04 -47.41 510.82 -51.49 515.84 -55.79 519.61 -59.66 523.38 -63.81 528.41 -67.46 532.18 -71.97 537.21 -75.98 540.98 -79.49 546.01 -83.93 551.04 -87.72 556.06 -91.73 561.09 -95.88 568.63 -99.18 576.17 -103.54 584.97 -107.12 592.51 -110.92 598.8 -114.93 607.6 -117.86 616.39 -122.16 623.93 -125.38 631.48 -128.75 640.27 -133.33 649.07 -136.91 656.61 -140.49 660.38 -143.42 657.87 -142.71 654.1 -141.49 655.36 -142.35 656.61 -143.28 657.87 -143.42 664.15 -146.14 672.95 -149.44 680.49 -152.87 689.29 -156.38 698.09 -159.6 706.89 -163.04 715.69 -166.55 724.49 -169.84 734.54 -173.28 743.34 -176.36 752.14 -179.94 762.19 -183.23 770.99 -186.67 781.04 -189.67 789.84 -192.97 799.9 -196.4 809.95 -199.41 820.01 -203.13 830.06 -206.35 840.12 -209.08 850.17 -212.58 860.23 -215.59 871.54 -218.67 881.6 -221.82 892.91 -225.18 902.96 -228.62 914.27 -231.41 925.59 -234.28 938.15 -238.07 951.98 -240.94 967.06 -242.94 982.15 -246.02 995.97 -249.24 1011.05 -251.6 1026.14 -253.97 1039.96 -256.54 1055.04 -260.27 1068.87 -263.06 1083.95 -264.71 1097.78 -267.64 1112.86 -270.72 1126.69 -272.58 1141.77 -275.87 1155.6 -277.88 1169.42 -281.53 1183.25 -283.75 1197.07 -286.11 1214.67 -288.26 1232.27 -292.27 1249.86 -294.63 1267.46 -297.14 1285.05 -299.79 1302.65 -300.57 1320.25 -303.37 1337.84 -306.23 1355.44 -309.31 1374.29 -310.31 1391.89 -313.68 1409.49 -314.82 1428.34 -318.33 1445.93 -319.62 1464.79 -323.34 1482.38 -324.7 1501.24 -326.13 1520.09 -327.57 1537.69 -331.79 1561.57 -333.15 1586.71 -334.44 1611.84 -335.8 1636.98 -337.23 1662.12 -338.66 1688.51 -340.17 1714.91 -341.67 1743.82 -345.39" id="img-dbc2f34c-361" stroke="#E870DD" class="geometry color_17gyr"/>
+        <path fill="none" d="M1114.12,609.48 L 1109.09 603.18 1104.06 596.95 1099.04 590.5 1092.75 584.2 1087.72 577.9 1082.7 571.46 1076.41 565.16 1071.38 558.86 1065.1 552.92 1060.07 546.97 1053.79 540.89 1047.5 534.87 1041.22 528.79 1036.19 522.77 1031.16 516.62 1024.88 510.6 1018.6 504.59 1011.05 498.5 1006.03 492.42 999.74 486.4 993.46 480.32 987.17 474.38 978.38 468.43 969.58 462.63 960.78 457.05 951.98 451.61 943.18 446.1 934.38 440.65 925.59 435.14 916.79 429.7 906.73 424.26 897.93 418.82 887.88 413.3 877.82 407.86 867.77 402.71 855.2 398.05 842.63 393.62 830.06 389.53 817.49 385.31 804.93 381.02 792.36 376.86 779.79 372.71 767.22 368.49 754.65 364.26 740.82 359.97 728.26 355.81 715.69 351.52 701.86 347.37 688.04 343.14 675.47 338.92 661.64 334.76 647.82 330.47 633.99 326.32 620.16 322.09 607.6 318.3 595.03 314.5 581.2 310.71 568.63 307.06 556.06 303.26 542.24 299.4 529.67 295.6 515.84 291.66 503.27 287.8 489.45 284 476.88 279.99 463.05 275.98 449.23 272.12 436.66 268.04 422.83 264.03 410.26 259.88 397.7 256.08 386.38 252.36 375.07 248.35 363.76 244.55 352.45 240.62 341.14 236.82 328.57 232.88 317.26 228.8 305.94 224.87 295.89 220.43 285.83 215.84 275.78 211.26 265.72 206.68 255.67 201.95 245.61 197.23 236.82 192.5 226.76 187.42 219.22 182.62 212.93 177.76 206.65 172.74 199.11 167.73 194.08 162.58 187.8 157.35 182.77 152.05 177.74 146.75 172.71 141.31 170.2 135.59 168.94 130.07 167.69 124.27 166.43 119.26 167.69 117.04 168.94 114.32 171.46 111.74 172.71 109.1 175.23 106.59 177.74 104.23 180.26 102.01 184.03 99.93 187.8 98 191.57 96.14 195.34 94.42 200.37 92.84 204.14 91.34 210.42 89.98 216.71 88.76 222.99 87.62 229.27 86.54 235.56 85.61 241.84 84.75 248.13 83.89 254.41 83.11 261.95 82.25 268.24 81.53 274.52 80.81 280.81 80.1 288.35 79.45 294.63 78.88 300.92 78.31 307.2 77.59 314.74 76.95 321.03 76.16 327.31 75.37 333.6 74.59 339.88 73.8 346.16 72.87 351.19 71.79 357.48 70.58 362.5 69.36 368.79 68 375.07 66.64 380.1 65.06 385.13 63.35 390.15 61.48 395.18 59.55 398.95 57.55 402.72 55.33 406.49 53.04 410.26 50.67 412.78 48.38 415.29 46.74 419.06 43.37 422.83 39.22 426.6 35.28 429.12 31.2 432.89 26.98 435.4 22.97 437.92 18.67 441.69 14.59 444.2 10.36 447.97 6.28 450.49 1.99 453 -2.09 456.77 -6.39 459.28 -10.54 463.05 -14.55 465.57 -18.77 469.34 -22.93 473.11 -27.22 475.62 -31.45 479.39 -35.46 483.16 -39.68 486.93 -43.83 490.71 -47.84 495.73 -51.99 499.5 -56 503.27 -60.23 507.04 -64.17 512.07 -68.32 517.1 -72.26 520.87 -76.41 525.9 -80.2 530.93 -84.14 535.95 -88.29 539.72 -92.73 544.75 -96.74 551.04 -100.89 556.06 -104.55 562.35 -108.41 569.89 -112.35 577.43 -115.64 584.97 -119.8 593.77 -123.45 601.31 -127.24 608.85 -131.18 617.65 -134.33 626.45 -138.63 633.99 -141.99 642.79 -146.29 651.59 -149.51 657.87 -153.59 654.1 -152.51 649.07 -151.08 647.82 -150.87 651.59 -152.37 651.59 -152.66 657.87 -155.31 666.67 -158.67 675.47 -161.75 684.26 -165.04 691.81 -168.41 700.6 -171.56 709.4 -174.92 718.2 -178 727 -181.3 735.8 -184.66 745.85 -187.74 754.65 -191.03 763.45 -194.11 773.5 -197.26 782.3 -200.34 792.36 -203.49 801.15 -206.78 811.21 -210.15 821.26 -213.16 831.32 -216.31 841.38 -219.17 851.43 -222.61 861.49 -225.69 871.54 -228.33 881.6 -231.63 891.65 -234.49 902.96 -237.5 914.27 -240.58 924.33 -243.8 935.64 -246.45 950.72 -249.6 964.55 -252.25 978.38 -254.97 992.2 -257.12 1007.28 -260.05 1021.11 -262.34 1034.93 -265.56 1048.76 -268.07 1063.84 -270.65 1077.67 -273.37 1091.49 -275.23 1105.32 -278.17 1120.4 -281.17 1134.23 -283.39 1148.05 -285.61 1160.62 -289.05 1173.19 -291.55 1187.02 -294.13 1199.59 -296.78 1217.18 -299.29 1234.78 -301.86 1251.12 -303.3 1268.71 -306.09 1286.31 -308.95 1303.91 -310.67 1321.5 -312.39 1339.1 -315.61 1356.7 -317.54 1375.55 -319.55 1393.15 -321.55 1410.74 -323.63 1428.34 -325.85 1447.19 -328.07 1464.79 -330.36 1483.64 -332.79 1501.24 -333.44 1520.09 -335.94 1538.94 -338.59 1561.57 -339.09 1586.71 -341.53 1611.84 -342.03 1636.98 -344.61 1664.63 -344.96 1689.77 -347.97" id="img-dbc2f34c-362" stroke="#FF6765" class="geometry color_13gyr"/>
+        <path fill="none" d="M1115.38,610.48 L 1109.09 603.82 1104.06 597.09 1097.78 590.29 1092.75 583.7 1086.47 576.9 1080.18 570.17 1075.15 563.37 1068.87 557 1062.59 550.62 1056.3 544.18 1050.02 537.81 1043.73 531.37 1037.45 524.99 1032.42 518.55 1026.14 512.11 1019.85 505.73 1012.31 499.29 1006.03 492.85 999.74 486.4 994.71 479.89 985.92 473.73 975.86 467.5 967.06 461.27 958.26 455.47 948.21 449.6 939.41 443.8 930.61 438.08 920.56 432.21 910.5 426.41 901.71 420.61 891.65 414.88 880.34 409.08 867.77 404 855.2 398.91 841.38 394.33 828.81 389.89 814.98 385.45 802.41 380.94 788.59 376.58 776.02 372.07 762.19 367.63 748.37 363.04 734.54 358.61 720.71 354.1 706.89 349.58 693.06 345.22 677.98 340.64 664.15 336.2 650.33 331.76 635.25 327.25 620.16 322.74 607.6 318.8 593.77 314.93 579.94 310.99 564.86 306.99 551.04 303.19 537.21 299.18 523.38 295.24 509.56 291.23 494.48 287.15 480.65 283.07 465.57 279.13 451.74 275.05 436.66 270.9 422.83 266.89 407.75 262.67 396.44 258.8 383.87 254.94 371.3 251.14 358.73 247.2 346.16 243.34 333.6 239.26 321.03 234.82 309.71 230.38 298.4 225.87 287.09 221.21 275.78 216.56 264.47 211.98 253.15 207.32 241.84 202.6 230.53 197.8 220.48 193.01 212.93 188.21 204.14 183.41 196.6 178.33 189.05 173.46 181.51 168.23 173.97 163.01 166.43 157.92 158.89 152.98 151.35 147.83 142.55 142.75 135.01 137.45 128.72 132.22 121.18 126.99 114.9 121.41 109.87 115.75 106.1 109.6 102.33 103.73 99.82 98.21 99.82 95.42 101.07 92.34 102.33 89.26 104.84 86.47 108.61 83.82 112.38 81.39 116.15 79.1 121.18 77.02 126.21 75.16 131.24 73.44 136.26 71.79 142.55 70.29 147.58 68.93 153.86 67.71 158.89 66.5 165.17 65.42 171.46 64.49 177.74 63.63 182.77 62.77 189.05 61.99 195.34 61.2 201.62 60.48 209.16 59.91 217.96 59.41 225.5 58.98 233.04 58.55 241.84 58.12 249.38 57.76 256.93 57.47 264.47 57.26 273.26 56.97 280.81 56.69 288.35 56.4 295.89 56.11 304.69 55.83 312.23 55.47 319.77 54.97 327.31 54.32 333.6 53.61 341.14 52.68 348.68 51.68 354.96 50.46 361.25 48.95 367.53 47.38 373.82 45.66 380.1 43.73 385.13 41.58 390.15 39.29 395.18 36.93 397.7 34.99 402.72 31.63 407.75 27.91 412.78 23.9 416.55 19.96 420.32 15.88 424.09 11.8 427.86 7.64 431.63 3.56 434.15 -0.66 437.92 -4.74 440.43 -9.04 444.2 -13.19 446.71 -17.49 450.49 -21.57 454.26 -25.86 458.03 -29.87 461.8 -34.1 465.57 -38.18 468.08 -42.4 471.85 -46.63 476.88 -50.71 480.65 -54.79 484.42 -59.08 488.19 -63.16 491.96 -67.03 496.99 -71.54 500.76 -75.55 504.53 -79.7 510.82 -83.57 515.84 -87.65 520.87 -91.44 525.9 -95.52 530.93 -99.68 537.21 -103.54 542.24 -107.62 547.26 -111.92 553.55 -115.79 559.83 -119.8 566.12 -123.38 572.4 -127.67 581.2 -131.32 590 -135.26 597.54 -138.63 605.08 -142.85 615.14 -146.43 622.68 -149.58 631.48 -154.16 640.27 -157.74 649.07 -161.11 655.36 -165.12 650.33 -163.76 645.3 -162.18 640.27 -160.53 645.3 -162.4 646.56 -162.97 652.84 -165.47 660.38 -168.55 669.18 -171.85 676.72 -174.85 685.52 -177.93 694.32 -181.08 703.12 -184.16 710.66 -187.24 720.71 -190.17 729.51 -193.25 738.31 -196.19 747.11 -199.41 755.91 -202.56 764.71 -205.57 774.76 -208.36 783.56 -211.29 792.36 -214.66 802.41 -217.45 812.47 -220.32 821.26 -223.25 831.32 -226.4 840.12 -229.19 850.17 -232.06 860.23 -235.06 870.28 -238.21 880.34 -241.01 890.39 -243.87 900.45 -246.88 910.5 -249.46 920.56 -252.68 931.87 -255.47 944.44 -258.19 958.26 -260.91 970.83 -263.13 985.92 -266.07 999.74 -268.43 1013.57 -270.93 1026.14 -273.58 1039.96 -276.3 1053.79 -278.38 1066.36 -281.32 1080.18 -283.61 1094.01 -285.97 1106.58 -288.47 1120.4 -291.05 1132.97 -293.63 1145.54 -296.42 1158.11 -299.21 1171.93 -301.22 1184.5 -304.23 1197.07 -306.45 1212.15 -308.52 1229.75 -310.53 1247.35 -312.67 1263.69 -314.82 1281.28 -317.18 1298.88 -319.62 1315.22 -320.91 1332.82 -323.48 1350.41 -326.21 1368.01 -327.64 1385.6 -329.14 1404.46 -332.08 1422.05 -333.65 1439.65 -335.37 1457.25 -337.09 1476.1 -338.88 1493.7 -340.74 1511.29 -342.67 1530.15 -344.61 1550.26 -346.54 1574.14 -348.26 1600.53 -348.33 1624.41 -350.83" id="img-dbc2f34c-363" stroke="#FF6DAE" class="geometry color_10gyr"/>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-dbc2f34c-364">
+    <text x="17.63" y="243.27" text-anchor="end" dy="0.35em" id="img-dbc2f34c-365">5.8</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-dbc2f34c-366">
+    <text x="8.81" y="123.13" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 125.13)" id="img-dbc2f34c-367">Mv</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-dbc2f34c-33">
+  <path d="M18.63,5 L 248.87 5 248.87 245.27 18.63 245.27" />
+</clipPath>
+  <g id="img-dbc2f34c-54">
+    <circle cx="0" cy="0" r="1.8" id="img-dbc2f34c-368"/>
+  </g>
+  <g id="img-dbc2f34c-57">
+    <circle cx="0" cy="0" r="1.79" id="img-dbc2f34c-369"/>
+  </g>
+  <g id="img-dbc2f34c-60">
+    <circle cx="0" cy="0" r="1.77" id="img-dbc2f34c-370"/>
+  </g>
+  <g id="img-dbc2f34c-63">
+    <circle cx="0" cy="0" r="1.76" id="img-dbc2f34c-371"/>
+  </g>
+  <g id="img-dbc2f34c-66">
+    <circle cx="0" cy="0" r="1.75" id="img-dbc2f34c-372"/>
+  </g>
+  <g id="img-dbc2f34c-69">
+    <circle cx="0" cy="0" r="1.73" id="img-dbc2f34c-373"/>
+  </g>
+  <g id="img-dbc2f34c-72">
+    <circle cx="0" cy="0" r="1.72" id="img-dbc2f34c-374"/>
+  </g>
+  <g id="img-dbc2f34c-75">
+    <circle cx="0" cy="0" r="1.7" id="img-dbc2f34c-375"/>
+  </g>
+  <g id="img-dbc2f34c-78">
+    <circle cx="0" cy="0" r="1.69" id="img-dbc2f34c-376"/>
+  </g>
+  <g id="img-dbc2f34c-81">
+    <circle cx="0" cy="0" r="1.68" id="img-dbc2f34c-377"/>
+  </g>
+  <g id="img-dbc2f34c-84">
+    <circle cx="0" cy="0" r="1.66" id="img-dbc2f34c-378"/>
+  </g>
+  <g id="img-dbc2f34c-87">
+    <circle cx="0" cy="0" r="1.65" id="img-dbc2f34c-379"/>
+  </g>
+  <g id="img-dbc2f34c-90">
+    <circle cx="0" cy="0" r="1.64" id="img-dbc2f34c-380"/>
+  </g>
+  <g id="img-dbc2f34c-93">
+    <circle cx="0" cy="0" r="1.62" id="img-dbc2f34c-381"/>
+  </g>
+  <g id="img-dbc2f34c-96">
+    <circle cx="0" cy="0" r="1.61" id="img-dbc2f34c-382"/>
+  </g>
+  <g id="img-dbc2f34c-99">
+    <circle cx="0" cy="0" r="1.6" id="img-dbc2f34c-383"/>
+  </g>
+  <g id="img-dbc2f34c-102">
+    <circle cx="0" cy="0" r="1.58" id="img-dbc2f34c-384"/>
+  </g>
+  <g id="img-dbc2f34c-105">
+    <circle cx="0" cy="0" r="1.57" id="img-dbc2f34c-385"/>
+  </g>
+  <g id="img-dbc2f34c-108">
+    <circle cx="0" cy="0" r="1.55" id="img-dbc2f34c-386"/>
+  </g>
+  <g id="img-dbc2f34c-111">
+    <circle cx="0" cy="0" r="1.54" id="img-dbc2f34c-387"/>
+  </g>
+  <g id="img-dbc2f34c-114">
+    <circle cx="0" cy="0" r="1.53" id="img-dbc2f34c-388"/>
+  </g>
+  <g id="img-dbc2f34c-117">
+    <circle cx="0" cy="0" r="1.51" id="img-dbc2f34c-389"/>
+  </g>
+  <g id="img-dbc2f34c-120">
+    <circle cx="0" cy="0" r="1.5" id="img-dbc2f34c-390"/>
+  </g>
+  <g id="img-dbc2f34c-123">
+    <circle cx="0" cy="0" r="1.49" id="img-dbc2f34c-391"/>
+  </g>
+  <g id="img-dbc2f34c-126">
+    <circle cx="0" cy="0" r="1.47" id="img-dbc2f34c-392"/>
+  </g>
+  <g id="img-dbc2f34c-129">
+    <circle cx="0" cy="0" r="1.46" id="img-dbc2f34c-393"/>
+  </g>
+  <g id="img-dbc2f34c-132">
+    <circle cx="0" cy="0" r="1.45" id="img-dbc2f34c-394"/>
+  </g>
+  <g id="img-dbc2f34c-135">
+    <circle cx="0" cy="0" r="1.43" id="img-dbc2f34c-395"/>
+  </g>
+  <g id="img-dbc2f34c-138">
+    <circle cx="0" cy="0" r="1.42" id="img-dbc2f34c-396"/>
+  </g>
+  <g id="img-dbc2f34c-141">
+    <circle cx="0" cy="0" r="1.4" id="img-dbc2f34c-397"/>
+  </g>
+  <g id="img-dbc2f34c-144">
+    <circle cx="0" cy="0" r="1.39" id="img-dbc2f34c-398"/>
+  </g>
+  <g id="img-dbc2f34c-147">
+    <circle cx="0" cy="0" r="1.38" id="img-dbc2f34c-399"/>
+  </g>
+  <g id="img-dbc2f34c-150">
+    <circle cx="0" cy="0" r="1.36" id="img-dbc2f34c-400"/>
+  </g>
+  <g id="img-dbc2f34c-153">
+    <circle cx="0" cy="0" r="1.35" id="img-dbc2f34c-401"/>
+  </g>
+  <g id="img-dbc2f34c-156">
+    <circle cx="0" cy="0" r="1.34" id="img-dbc2f34c-402"/>
+  </g>
+  <g id="img-dbc2f34c-159">
+    <circle cx="0" cy="0" r="1.32" id="img-dbc2f34c-403"/>
+  </g>
+  <g id="img-dbc2f34c-162">
+    <circle cx="0" cy="0" r="1.31" id="img-dbc2f34c-404"/>
+  </g>
+  <g id="img-dbc2f34c-165">
+    <circle cx="0" cy="0" r="1.3" id="img-dbc2f34c-405"/>
+  </g>
+  <g id="img-dbc2f34c-168">
+    <circle cx="0" cy="0" r="1.28" id="img-dbc2f34c-406"/>
+  </g>
+  <g id="img-dbc2f34c-171">
+    <circle cx="0" cy="0" r="1.27" id="img-dbc2f34c-407"/>
+  </g>
+  <g id="img-dbc2f34c-174">
+    <circle cx="0" cy="0" r="1.25" id="img-dbc2f34c-408"/>
+  </g>
+  <g id="img-dbc2f34c-177">
+    <circle cx="0" cy="0" r="1.24" id="img-dbc2f34c-409"/>
+  </g>
+  <g id="img-dbc2f34c-180">
+    <circle cx="0" cy="0" r="1.23" id="img-dbc2f34c-410"/>
+  </g>
+  <g id="img-dbc2f34c-183">
+    <circle cx="0" cy="0" r="1.21" id="img-dbc2f34c-411"/>
+  </g>
+  <g id="img-dbc2f34c-186">
+    <circle cx="0" cy="0" r="1.2" id="img-dbc2f34c-412"/>
+  </g>
+  <g id="img-dbc2f34c-189">
+    <circle cx="0" cy="0" r="1.19" id="img-dbc2f34c-413"/>
+  </g>
+  <g id="img-dbc2f34c-192">
+    <circle cx="0" cy="0" r="1.17" id="img-dbc2f34c-414"/>
+  </g>
+  <g id="img-dbc2f34c-195">
+    <circle cx="0" cy="0" r="1.16" id="img-dbc2f34c-415"/>
+  </g>
+  <g id="img-dbc2f34c-198">
+    <circle cx="0" cy="0" r="1.15" id="img-dbc2f34c-416"/>
+  </g>
+  <g id="img-dbc2f34c-201">
+    <circle cx="0" cy="0" r="1.13" id="img-dbc2f34c-417"/>
+  </g>
+  <g id="img-dbc2f34c-204">
+    <circle cx="0" cy="0" r="1.12" id="img-dbc2f34c-418"/>
+  </g>
+  <g id="img-dbc2f34c-207">
+    <circle cx="0" cy="0" r="1.1" id="img-dbc2f34c-419"/>
+  </g>
+  <g id="img-dbc2f34c-210">
+    <circle cx="0" cy="0" r="1.09" id="img-dbc2f34c-420"/>
+  </g>
+  <g id="img-dbc2f34c-213">
+    <circle cx="0" cy="0" r="1.08" id="img-dbc2f34c-421"/>
+  </g>
+  <g id="img-dbc2f34c-216">
+    <circle cx="0" cy="0" r="1.06" id="img-dbc2f34c-422"/>
+  </g>
+  <g id="img-dbc2f34c-219">
+    <circle cx="0" cy="0" r="1.05" id="img-dbc2f34c-423"/>
+  </g>
+  <g id="img-dbc2f34c-222">
+    <circle cx="0" cy="0" r="1.04" id="img-dbc2f34c-424"/>
+  </g>
+  <g id="img-dbc2f34c-225">
+    <circle cx="0" cy="0" r="1.02" id="img-dbc2f34c-425"/>
+  </g>
+  <g id="img-dbc2f34c-228">
+    <circle cx="0" cy="0" r="1.01" id="img-dbc2f34c-426"/>
+  </g>
+  <g id="img-dbc2f34c-231">
+    <circle cx="0" cy="0" r="1" id="img-dbc2f34c-427"/>
+  </g>
+  <g id="img-dbc2f34c-234">
+    <circle cx="0" cy="0" r="0.98" id="img-dbc2f34c-428"/>
+  </g>
+  <g id="img-dbc2f34c-237">
+    <circle cx="0" cy="0" r="0.97" id="img-dbc2f34c-429"/>
+  </g>
+  <g id="img-dbc2f34c-240">
+    <circle cx="0" cy="0" r="0.95" id="img-dbc2f34c-430"/>
+  </g>
+  <g id="img-dbc2f34c-243">
+    <circle cx="0" cy="0" r="0.94" id="img-dbc2f34c-431"/>
+  </g>
+  <g id="img-dbc2f34c-246">
+    <circle cx="0" cy="0" r="0.93" id="img-dbc2f34c-432"/>
+  </g>
+  <g id="img-dbc2f34c-249">
+    <circle cx="0" cy="0" r="0.91" id="img-dbc2f34c-433"/>
+  </g>
+  <g id="img-dbc2f34c-252">
+    <circle cx="0" cy="0" r="0.9" id="img-dbc2f34c-434"/>
+  </g>
+  <g id="img-dbc2f34c-255">
+    <circle cx="0" cy="0" r="0.89" id="img-dbc2f34c-435"/>
+  </g>
+  <g id="img-dbc2f34c-258">
+    <circle cx="0" cy="0" r="0.87" id="img-dbc2f34c-436"/>
+  </g>
+  <g id="img-dbc2f34c-261">
+    <circle cx="0" cy="0" r="0.86" id="img-dbc2f34c-437"/>
+  </g>
+  <g id="img-dbc2f34c-264">
+    <circle cx="0" cy="0" r="0.85" id="img-dbc2f34c-438"/>
+  </g>
+  <g id="img-dbc2f34c-267">
+    <circle cx="0" cy="0" r="0.83" id="img-dbc2f34c-439"/>
+  </g>
+  <g id="img-dbc2f34c-270">
+    <circle cx="0" cy="0" r="0.82" id="img-dbc2f34c-440"/>
+  </g>
+  <g id="img-dbc2f34c-273">
+    <circle cx="0" cy="0" r="0.8" id="img-dbc2f34c-441"/>
+  </g>
+  <g id="img-dbc2f34c-276">
+    <circle cx="0" cy="0" r="0.79" id="img-dbc2f34c-442"/>
+  </g>
+  <g id="img-dbc2f34c-279">
+    <circle cx="0" cy="0" r="0.78" id="img-dbc2f34c-443"/>
+  </g>
+  <g id="img-dbc2f34c-282">
+    <circle cx="0" cy="0" r="0.76" id="img-dbc2f34c-444"/>
+  </g>
+  <g id="img-dbc2f34c-285">
+    <circle cx="0" cy="0" r="0.75" id="img-dbc2f34c-445"/>
+  </g>
+  <g id="img-dbc2f34c-288">
+    <circle cx="0" cy="0" r="0.74" id="img-dbc2f34c-446"/>
+  </g>
+  <g id="img-dbc2f34c-291">
+    <circle cx="0" cy="0" r="0.72" id="img-dbc2f34c-447"/>
+  </g>
+  <g id="img-dbc2f34c-294">
+    <circle cx="0" cy="0" r="0.71" id="img-dbc2f34c-448"/>
+  </g>
+  <g id="img-dbc2f34c-297">
+    <circle cx="0" cy="0" r="0.7" id="img-dbc2f34c-449"/>
+  </g>
+  <g id="img-dbc2f34c-300">
+    <circle cx="0" cy="0" r="0.68" id="img-dbc2f34c-450"/>
+  </g>
+  <g id="img-dbc2f34c-303">
+    <circle cx="0" cy="0" r="0.67" id="img-dbc2f34c-451"/>
+  </g>
+  <g id="img-dbc2f34c-306">
+    <circle cx="0" cy="0" r="0.65" id="img-dbc2f34c-452"/>
+  </g>
+  <g id="img-dbc2f34c-309">
+    <circle cx="0" cy="0" r="0.64" id="img-dbc2f34c-453"/>
+  </g>
+  <g id="img-dbc2f34c-312">
+    <circle cx="0" cy="0" r="0.63" id="img-dbc2f34c-454"/>
+  </g>
+  <g id="img-dbc2f34c-315">
+    <circle cx="0" cy="0" r="0.61" id="img-dbc2f34c-455"/>
+  </g>
+  <g id="img-dbc2f34c-318">
+    <circle cx="0" cy="0" r="0.6" id="img-dbc2f34c-456"/>
+  </g>
+  <g id="img-dbc2f34c-321">
+    <circle cx="0" cy="0" r="0.59" id="img-dbc2f34c-457"/>
+  </g>
+  <g id="img-dbc2f34c-324">
+    <circle cx="0" cy="0" r="0.57" id="img-dbc2f34c-458"/>
+  </g>
+  <g id="img-dbc2f34c-327">
+    <circle cx="0" cy="0" r="0.56" id="img-dbc2f34c-459"/>
+  </g>
+  <g id="img-dbc2f34c-330">
+    <circle cx="0" cy="0" r="0.55" id="img-dbc2f34c-460"/>
+  </g>
+  <g id="img-dbc2f34c-333">
+    <circle cx="0" cy="0" r="0.53" id="img-dbc2f34c-461"/>
+  </g>
+  <g id="img-dbc2f34c-336">
+    <circle cx="0" cy="0" r="0.52" id="img-dbc2f34c-462"/>
+  </g>
+  <g id="img-dbc2f34c-339">
+    <circle cx="0" cy="0" r="0.5" id="img-dbc2f34c-463"/>
+  </g>
+  <g id="img-dbc2f34c-342">
+    <circle cx="0" cy="0" r="0.49" id="img-dbc2f34c-464"/>
+  </g>
+  <g id="img-dbc2f34c-345">
+    <circle cx="0" cy="0" r="0.48" id="img-dbc2f34c-465"/>
+  </g>
+  <g id="img-dbc2f34c-348">
+    <circle cx="0" cy="0" r="0.46" id="img-dbc2f34c-466"/>
+  </g>
+  <g id="img-dbc2f34c-351">
+    <circle cx="0" cy="0" r="0.45" id="img-dbc2f34c-467"/>
+  </g>
+</defs>
+</svg>

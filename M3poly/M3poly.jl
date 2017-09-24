@@ -1,6 +1,6 @@
 using DataFrames, CurveFit, Gadfly
 
-Data = readcsv("M3fidu.CSV");
+Data = readcsv("../M3fidu.CSV");
 
 Mv = Data[:, 1];
 red = Data[:, 2];
@@ -40,5 +40,5 @@ pl = plot(
 
 draw(SVG("Interpolation.svg", 1000px, 800px), pl);
 
-# global Minimum Mv =4.053
-
+# global Minimum Mv = 4.053
+# B-V = 0.412977

@@ -44,3 +44,4 @@ draw(SVG("Interpolation.svg", 1000px, 800px), pl);
 run(`inkscape -z Interpolation.svg -e Interpolation.png -d 300 --export-background=WHITE`)
 
 # Global Minimum : Mv = 4.2595
+# B-V = 0.430579
