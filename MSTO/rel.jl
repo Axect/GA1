@@ -1,4 +1,4 @@
-using DataFrames, Gadfly
+using DataFrames, Gadfly, Dierckx
 
 # ==============================================================================
 # Function
@@ -67,7 +67,65 @@ Mv3 = M3[:,1]
 # Find 0.05
 # ==============================================================================
 
+# MSTO Data
+
 MSTO_M3_BV = 0.412977
 MSTO_M3_Mv = 4.053
 MSTO_M13_BV = 0.430579
 MSTO_M3_Mv = 4.2595
+
+# + 0.05
+
+MSTOp_M3_BV = MSTO_M3_BV + 0.05
+MSTOp_M13_BV = MSTO_M13_BV + 0.05
+
+MSTOp = Array{Float64}(10,2)
+
+for i = 1:length(MSTO[:,1])
+    MSTOp[i,1] = MSTO[i,1] + 0.05
+end
+
+# ==============================================================================
+# Cubic Spline
+# ==============================================================================
+
+# 1. Minimum BV
+
+min3, key3 = findmin(BV3)
+min13, key13 = findmin(BV13)
+
+# 2. Data Cutting
+
+M3s = M3[key3:end, :]
+M13s = M13[key13:end, :]
+
+# 3. Cubic Spline
+
+spl3 = Spline1D(M3s[:,2], M3s[:,1])
+MSTOp_M3_Mv = spl3(MSTOp_M3_BV)
+
+spl13 = Spline1D(M13s[:,2], M13s[:,1])
+MSTOp_M13_Mv = spl13(MSTOp_M13_BV)
+
+# 4. Extend to Iso
+
+MSTOp_ISO_Mv = Array{Float64}(10)
+
+for i = 1:10
+    start = 280*(i-1) + 1
+    finish = 280*i
+    for j = start : finish
+        if abs(Iso[j,1] - MSTOp[i]) < 0.01
+            MSTOp_ISO_Mv[i] = Iso[j,2]
+            t = i + 7
+            println("Find Iso$(t) Mv!")
+            break;
+        end
+    end
+end
+
+
+
+
+
+println(MSTOp_ISO_Mv)
