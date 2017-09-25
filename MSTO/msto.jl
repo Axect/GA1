@@ -72,6 +72,11 @@ println()
 println("M3: 4.053")
 println("M13: 4.2595")
 println()
+
+# MSTO10 = 3.774
+# MSTO11 = 3.882
+# MSTO12 = 3.979
+# MSTO13 = 4.068
 # MSTO14 = 4.148 ~= 4.15
 # MSTO15 = 4.222 ~= 4.22
 # MSTO16 = 4.289 ~= 4.29

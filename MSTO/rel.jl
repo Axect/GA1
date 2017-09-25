@@ -104,10 +104,12 @@ M13s = M13[key13:end, :]
 spl3 = Spline1D(M3s[:,2], M3s[:,1])
 MSTOp_M3_Mv = spl3(MSTOp_M3_BV)
 
-spl13 = Spline1D(M13s[:,2], M13s[:,1])
+spl13 = Spline1D(M13s[2:end,2], M13s[2:end,1])
 MSTOp_M13_Mv = spl13(MSTOp_M13_BV)
 
-# 4. Extend to Iso
+# ==============================================================================
+# ISO : Error ~ 0.01
+# ==============================================================================
 
 MSTOp_ISO_Mv = Array{Float64}(10)
 
@@ -124,8 +126,47 @@ for i = 1:10
     end
 end
 
+# ==============================================================================
+# Normalization
+# ==============================================================================
 
+# 1. M3, M13
 
+# 1-1. Normalize
+BV3temp = BV3 .- MSTO_M3_BV
+Mv3temp = Mv3 .- MSTOp_M3_Mv
 
+BV13temp = BV13 .- MSTO_M13_BV
+Mv13temp = Mv13 .- MSTOp_M13_Mv
 
-println(MSTOp_ISO_Mv)
+# 1-2. DataFrame
+DM3 = DataFrame(BV=BV3temp, Mv=Mv3temp, index=repeat(["M3"], inner=[length(BV3temp)]))
+DM13 = DataFrame(BV=BV13temp, Mv=Mv13temp, index=repeat(["M13"], inner=[length(BV13temp)]))
+
+# 2. IsoChrone
+
+ISOR = Array{Float64}(2800,2)
+# 2-1. Normalize
+for i = 1:10
+    start = 280*(i-1) + 1
+    finish = 280*i
+    for j = start : finish
+        BVtemp = Iso[start:finish, 1] .- MSTO[i,1]
+        Mvtemp = Iso[start:finish, 2] .- MSTOp_ISO_Mv[i]
+        ISOR[j,1] = BVtemp[j-start+1]
+        ISOR[j,2] = Mvtemp[j-start+1]
+    end
+end
+
+DISO = DataFrame(BV=ISOR[:,1], Mv=ISOR[:,2], index=repeat(["8gyr", "9gyr", "10gyr", "11gyr", "12gyr", "13gyr", "14gyr", "15gyr", "16gyr", "17gyr"], inner=[280]))
+
+pl = plot(
+    layer(DISO, x=:BV, y=:Mv, color=:index, Geom.line(preserve_order=true)),
+    layer(DM3, x=:BV, y=:Mv, color=:index, size=1:100, Geom.point),
+    layer(DM13, x=:BV, y=:Mv, color=:index, size=1:100, Geom.point),
+    Guide.title("Relative age"), Guide.XLabel("B-V"), Guide.YLabel("Mv"), Coord.Cartesian(xmin=0, xmax=0.5, ymin=0, ymax=-5)
+)
+
+draw(SVG("rel2.svg", 1000px, 800px), pl)
+
+run(`inkscape -z rel2.svg -e rel2.png -d 300 --export-background=WHITE`)
