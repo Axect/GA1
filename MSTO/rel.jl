@@ -72,7 +72,7 @@ Mv3 = M3[:,1]
 MSTO_M3_BV = 0.412977
 MSTO_M3_Mv = 4.053
 MSTO_M13_BV = 0.430579
-MSTO_M3_Mv = 4.2595
+MSTO_M13_Mv = 4.2595
 
 # + 0.05
 
@@ -125,6 +125,24 @@ for i = 1:10
         end
     end
 end
+
+# ==============================================================================
+# Table
+# ==============================================================================
+
+# M3, M13
+M3Data = [MSTO_M3_BV MSTO_M3_Mv; MSTOp_M3_BV MSTOp_M3_Mv]
+writecsv("M3.csv", M3Data)
+M13Data = [MSTO_M13_BV MSTO_M13_Mv; MSTOp_M13_BV MSTOp_M13_Mv]
+writecsv("M13.csv", M13Data)
+
+# Isochrone
+IsoData = MSTO
+writecsv("Iso.csv", IsoData)
+
+IsoDatap = hcat(MSTOp, MSTOp_ISO_Mv)
+writecsv("Isop.csv", IsoDatap)
+
 
 # ==============================================================================
 # Normalization
