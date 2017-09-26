@@ -175,7 +175,12 @@ for i = 1:10
     end
 end
 
+# 2-2. DataFrame
 DISO = DataFrame(BV=ISOR[:,1], Mv=ISOR[:,2], index=repeat(["8gyr", "9gyr", "10gyr", "11gyr", "12gyr", "13gyr", "14gyr", "15gyr", "16gyr", "17gyr"], inner=[280]))
+
+# ==============================================================================
+# Plot
+# ==============================================================================
 
 pl = plot(
     layer(DISO, x=:BV, y=:Mv, color=:index, Geom.line(preserve_order=true)),
